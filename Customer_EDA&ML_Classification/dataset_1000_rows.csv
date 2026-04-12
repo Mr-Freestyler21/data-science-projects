@@ -1,0 +1,1001 @@
+User_ID,Name,Age,Gender,Join_Date,Salary,Country,Email,Purchase_Amount,Last_Login,Subscription_Status
+0001,N/A,?,Female,2022-13-01,NaN,NIG,sarah.connor@email.com,4811,2022-13-01,ACTIVE
+0002,Emily Davis,?,female,2023/03/09,$40189,Nigeria,emily.davis@email.com,NaN,Apr 06 2024,Actve
+0003,Sarah Connor,thirty,M,2022-13-01,abc,US,sarah.connor@email.com,334.02,Jun 06 2024,active
+0004,Bob Gray,NaN,M,2022-08-03,abc,United States,bob.gray@mail.com,-21,2023/10/18,Active
+0005,Emily Davis,,M,2022-13-01,abc,Nigeria,emily.davis@email.com,,2022-13-01,ACTIVE
+0006,Tom Hardy,,Male,2024-02-13,abc,United States,tom.hardy@mail.com,-9,2022-13-01,Active
+0007,Sarah Connor,168,M,Apr 25 2022,40365 NGN,USA,sarah.connor@mail.com,,2022-13-01,Actve
+0008,David Kim,thirty,male,Jan 01 2022,31276,Nigeria,david.kim@email,127.33,2022-13-01,Inactive
+0009,Chris O'Neil,NaN,male,12/06/2024,abc,UK,chris.oneil@mail.com,-86,08/04/2023,Inactive
+0010,Mike Brown,?,male,2022-08-14,abc,USA,mike.brown@email.com,43.03,13/10/2022,Actve
+0011,Chris O'Neil,,Female,Mar 14 2024,42478,US,chris.oneil@mail.com,-55,2022-02-25,ACTIVE
+0012,Robert Brown,?,Female,04/07/2023,$57648,United Kingdom,robert.brown@email,8260,not available,Actve
+0013,John Doe,?,F,13/05/2023,86665 NGN,USA,john.doe@email.com,-50,15/12/2023,Inactive
+0014,Linda White,248,male,2022-03-04,NaN,Canada,linda.white@mail.com,460.5,2022-03-24,Actve
+0015,Mike Brown,33,male,2022-13-01,35372 NGN,South Korea,mike.brown@email,,May 15 2022,active
+0016,N/A,57,Male,2022-13-01,$47380,Nigeria,mike.brown@email.com,,2022-13-01,Actve
+0017,John Doe,176,Male,2024/06/18,37564,South Korea,john.doe@email.com,NaN,2022-13-01,ACTIVE
+0018,Michael Johnson,123,F,2024-04-29,30232 USD,United States,michael.johnson@mail.com,8239,2023-07-29,Active
+0019,Chris O'Neil,thirty,Female,2023-03-17,50202 USD,USA,chris.oneil@email,NaN,2022-13-01,Inactive
+0020,Emily Davis,,Male,Jul 03 2022,abc,UK,emily.davis@email,-90,29/05/2024,Inactive
+0021,Bob Gray,?,Male,Nov 07 2023,51512 USD,US,bob.gray@email,7548,2022/01/29,Inactive
+0022,N/A,NaN,female,Mar 16 2024,NaN,US,michael.johnson@email,450.76,2022/01/02,ACTIVE
+0023,Mike Brown,180,Male,2022-13-01,abc,NIG,mike.brown@email,,2022-13-01,Actve
+0024,Linda White,NaN,Female,Mar 17 2023,58952 NGN,UK,linda.white@mail.com,241.86,2023-11-11,Inactive
+0025,Linda White,30,Male,2022-13-01,85688,Canada,linda.white@email,-74,2022-09-07,Active
+0026,Alice Blue,,Male,2023-07-25,$59914,Canada,alice.blue@mail.com,-72,2022-13-01,ACTIVE
+0027,Anna Lee,NaN,Female,2022-13-01,abc,UK,anna.lee@email,,24/11/2022,Inactive
+0028,Emily Davis,27,F,2022-13-01,60534 NGN,USA,emily.davis@email.com,1320,2022/01/07,ACTIVE
+0029,Alice Blue,thirty,Female,2023/05/15,58562 NGN,USA,alice.blue@email,,May 11 2022,Actve
+0030,John Doe,,Female,Feb 21 2022,$51453,Canada,john.doe@email,-49,2022-03-25,Actve
+0031,Jane Smith,157,Male,2024-03-10,$46205,USA,jane.smith@mail.com,84.67,2022/08/12,active
+0032,Anna Lee,?,M,2022/04/21,abc,NIG,anna.lee@email,2245,2023-10-05,active
+0033,Sarah Connor,NaN,male,2023-03-15,abc,Nigeria,sarah.connor@email.com,-63,13/10/2023,ACTIVE
+0034,Anna Lee,thirty,male,Mar 04 2024,abc,United Kingdom,anna.lee@email,-12,2023/04/21,Active
+0035,Eve Black,?,M,2024/03/27,NaN,United Kingdom,eve.black@mail.com,,May 16 2023,ACTIVE
+0036,Bob Gray,?,F,2023/12/10,NaN,Nigeria,bob.gray@email,7971,2023/12/21,active
+0037,Michael Johnson,NaN,Male,31/01/2024,abc,Canada,michael.johnson@email,9595,2022/04/13,Inactive
+0038,Susan Green,?,M,2022-13-01,abc,United States,susan.green@mail.com,435.55,Apr 26 2023,active
+0039,Anna Lee,34,Male,2023-02-15,abc,USA,anna.lee@email.com,83.11,2022-13-01,Actve
+0040,Emily Davis,,M,2024/05/30,NaN,USA,emily.davis@mail.com,,25/03/2022,Inactive
+0041,Kate Moss,,female,2023/09/01,$32139,United Kingdom,kate.moss@mail.com,,Mar 17 2024,Active
+0042,Kate Moss,?,Male,2022/03/03,abc,United Kingdom,kate.moss@email,-89,May 28 2023,Active
+0043,Jane Smith,thirty,M,27/01/2022,NaN,USA,jane.smith@mail.com,,2023/10/30,Inactive
+0044,Alice Blue,,M,2023/02/23,73917,United States,alice.blue@email,-64,Jul 18 2023,Active
+0045,Robert Brown,thirty,Male,Nov 05 2023,$33552,South Korea,robert.brown@email,315.09,2023/07/17,ACTIVE
+0046,Eve Black,161,Female,2022-13-01,56738,UK,eve.black@email.com,-16,Oct 26 2022,ACTIVE
+0047,Eve Black,,Female,2023-09-06,48104 NGN,Nigeria,eve.black@mail.com,NaN,17/08/2023,ACTIVE
+0048,Kate Moss,thirty,F,12/04/2023,$75711,NIG,kate.moss@email.com,NaN,Dec 24 2023,Inactive
+0049,Eve Black,thirty,M,Jun 09 2024,NaN,Canada,eve.black@email.com,364.0,2022-13-01,ACTIVE
+0050,Mike Brown,,M,2022-13-01,NaN,US,mike.brown@email.com,319.27,Apr 11 2022,Inactive
+0051,Linda White,20,M,Jan 03 2023,$39540,South Korea,linda.white@email,,not available,ACTIVE
+0052,Emily Davis,?,F,Oct 16 2023,abc,USA,emily.davis@email,,not available,active
+0053,Linda White,,M,Jul 23 2022,$36989,NIG,linda.white@mail.com,185.89,2023/11/06,Active
+0054,Jane Smith,NaN,Female,14/09/2023,$71721,United Kingdom,jane.smith@mail.com,380.23,2023/10/24,ACTIVE
+0055,Jane Smith,64,M,01/12/2022,$43159,South Korea,jane.smith@email,NaN,2023/05/09,Active
+0056,Bob Gray,157,female,2022-13-01,53971,NIG,bob.gray@email.com,NaN,2022-13-01,ACTIVE
+0057,Susan Green,32,male,2022-13-01,abc,US,susan.green@mail.com,-90,2022/02/16,ACTIVE
+0058,Sarah Connor,,F,2022-13-01,abc,United States,sarah.connor@email,NaN,not available,active
+0059,David Kim,33,female,2023-01-12,56092 USD,UK,david.kim@email.com,,2023-09-04,active
+0060,Emily Davis,?,Male,2022-13-01,$44152,Nigeria,emily.davis@email.com,NaN,2022-13-01,active
+0061,Anna Lee,19,M,2022-13-01,51218,United States,anna.lee@email,7897,Mar 07 2022,active
+0062,Sam Wilson,?,male,Feb 14 2022,72161,USA,sam.wilson@email,-55,2023-03-31,active
+0063,Chris O'Neil,thirty,female,2022-13-01,64770 USD,Canada,chris.oneil@mail.com,2874,Aug 09 2022,Inactive
+0064,Alice Blue,,female,Apr 08 2022,abc,United Kingdom,alice.blue@email,477.26,not available,Active
+0065,Mike Brown,?,male,2022-03-03,56922 USD,NIG,mike.brown@mail.com,NaN,04/06/2023,ACTIVE
+0066,Emily Davis,NaN,Male,2022-13-01,44821 NGN,South Korea,emily.davis@mail.com,1430,2024-04-29,Inactive
+0067,Michael Johnson,NaN,Male,2022-13-01,73079 NGN,US,michael.johnson@email.com,2503,2023/03/06,Inactive
+0068,Susan Green,thirty,Male,23/02/2022,NaN,USA,susan.green@mail.com,-57,01/03/2023,Actve
+0069,Sarah Connor,172,female,2022-13-01,73721 USD,USA,sarah.connor@email.com,203.68,2022/08/05,active
+0070,Robert Brown,?,Female,2022-13-01,abc,Nigeria,robert.brown@email.com,-95,not available,Active
+0071,Robert Brown,203,female,2023-03-04,56544,Nigeria,robert.brown@email.com,NaN,not available,Active
+0072,Emily Davis,43,F,2024/06/10,44520 USD,United States,emily.davis@email.com,9693,2024/03/05,Inactive
+0073,Emily Davis,?,male,06/06/2022,abc,Canada,emily.davis@email,8354,2023/10/02,Inactive
+0074,Bob Gray,NaN,male,2022-13-01,34862 USD,Canada,bob.gray@email,28.43,2022-13-01,Actve
+0075,Sam Wilson,241,Male,2023/04/06,69649 NGN,South Korea,sam.wilson@email.com,NaN,2022-03-28,Inactive
+0076,Bob Gray,thirty,Female,2023/01/08,55389 NGN,Nigeria,bob.gray@mail.com,302.96,2023/07/26,active
+0077,Chris O'Neil,NaN,M,03/11/2023,abc,US,chris.oneil@email,,Apr 28 2024,Actve
+0078,N/A,?,M,24/02/2024,$44846,United States,susan.green@email.com,9317,2023/06/24,Actve
+0079,Chris O'Neil,?,female,Feb 29 2024,32863 NGN,Nigeria,chris.oneil@mail.com,-57,Sep 02 2022,Inactive
+0080,Susan Green,,M,2022-13-01,64567 NGN,United States,susan.green@email.com,402.62,2022-13-01,Active
+0081,Sam Wilson,?,M,Apr 06 2023,$36010,Canada,sam.wilson@email,-54,2022-08-30,active
+0082,N/A,?,Female,Feb 09 2022,$75617,Canada,emily.davis@email,NaN,2022-06-03,active
+0083,Emily Davis,,female,2024-03-23,37265 NGN,South Korea,emily.davis@email.com,,02/01/2022,Actve
+0084,Alice Blue,thirty,M,Mar 11 2022,87234 NGN,USA,alice.blue@mail.com,199.57,11/03/2022,Active
+0085,Robert Brown,NaN,female,Jun 29 2022,$71401,United States,robert.brown@email.com,NaN,2024-03-21,active
+0086,Linda White,,M,2022/02/07,53394,Nigeria,linda.white@email,-48,31/01/2023,ACTIVE
+0087,Eve Black,NaN,Male,2024-01-15,NaN,United States,eve.black@mail.com,NaN,2022-13-01,ACTIVE
+0088,Anna Lee,40,female,2022-13-01,58504 USD,USA,anna.lee@email.com,6952,2023-11-27,Inactive
+0089,N/A,160,M,2022-13-01,NaN,United States,bob.gray@mail.com,-48,2022-13-01,active
+0090,Tom Hardy,35,Male,Jan 24 2024,63930 NGN,South Korea,tom.hardy@email.com,,20/10/2022,Active
+0091,Chris O'Neil,144,F,2022/03/31,76500,South Korea,chris.oneil@mail.com,,2023-06-05,Inactive
+0092,Chris O'Neil,NaN,male,Aug 10 2023,NaN,United States,chris.oneil@mail.com,-9,2022-13-01,ACTIVE
+0093,Alice Blue,NaN,female,Mar 17 2022,NaN,Nigeria,alice.blue@email.com,,2024-06-08,Actve
+0094,Chris O'Neil,182,Female,2022-12-21,$46423,South Korea,chris.oneil@email,71.33,22/06/2022,Actve
+0095,Robert Brown,54,Male,16/02/2022,NaN,NIG,robert.brown@mail.com,NaN,06/11/2022,ACTIVE
+0096,Linda White,?,F,Mar 02 2023,43370 USD,United States,linda.white@email,-41,2023/01/15,Inactive
+0097,Bob Gray,?,Male,Feb 21 2022,NaN,NIG,bob.gray@email.com,6364,Jul 14 2022,Actve
+0098,Bob Gray,37,Male,07/02/2023,NaN,Nigeria,bob.gray@email.com,NaN,May 17 2024,Inactive
+0099,Michael Johnson,NaN,Male,2022-13-01,$66819,Nigeria,michael.johnson@mail.com,-50,14/10/2022,Active
+0100,Tom Hardy,NaN,Female,2022-13-01,32638,USA,tom.hardy@email.com,-61,2023/06/12,Actve
+0101,Robert Brown,thirty,M,2022-13-01,49647 NGN,USA,robert.brown@email,7824,2022-13-01,ACTIVE
+0102,Michael Johnson,thirty,Female,2022-13-01,$61486,South Korea,michael.johnson@mail.com,,2022-13-01,Active
+0103,N/A,?,F,Dec 09 2023,NaN,Canada,david.kim@mail.com,3262,2022-13-01,ACTIVE
+0104,Robert Brown,NaN,male,2022-13-01,$61731,UK,robert.brown@email,NaN,2023/12/08,ACTIVE
+0105,Susan Green,NaN,Male,Aug 11 2023,83633 USD,United States,susan.green@email,NaN,Nov 03 2023,Inactive
+0106,David Kim,243,M,2022-13-01,NaN,UK,david.kim@email.com,,not available,ACTIVE
+0107,Robert Brown,24,male,Jun 11 2022,abc,UK,robert.brown@email,167.37,26/08/2022,ACTIVE
+0108,Anna Lee,,Female,2024-02-06,30607 USD,US,anna.lee@email,9901,2022/05/18,Inactive
+0109,Sarah Connor,217,M,2024-01-06,78274 USD,United Kingdom,sarah.connor@mail.com,3875,2022-13-01,active
+0110,Mike Brown,?,F,2022-11-28,47090 NGN,UK,mike.brown@email,5947,2022/01/12,Inactive
+0111,Jane Smith,?,F,2023-12-04,71858 USD,Nigeria,jane.smith@mail.com,,Sep 13 2023,Actve
+0112,Eve Black,?,female,2022-13-01,NaN,Nigeria,eve.black@email.com,2011,27/07/2022,active
+0113,Sam Wilson,152,male,2022-13-01,59195,Canada,sam.wilson@email.com,1945,2024-04-06,ACTIVE
+0114,Michael Johnson,thirty,Male,2022/02/16,75900,South Korea,michael.johnson@email.com,467.95,Jul 04 2022,active
+0115,Tom Hardy,42,female,2023/11/09,$37774,South Korea,tom.hardy@email,269.13,2022-13-01,ACTIVE
+0116,Kate Moss,,M,08/06/2022,abc,US,kate.moss@email.com,,Apr 14 2022,Actve
+0117,Jane Smith,,Female,2023-07-07,NaN,United Kingdom,jane.smith@email.com,6224,20/11/2023,active
+0118,Chris O'Neil,,M,2022-13-01,abc,United States,chris.oneil@mail.com,342.59,2022-13-01,active
+0119,Alice Blue,?,male,30/04/2023,abc,United States,alice.blue@email,-72,18/05/2022,active
+0120,David Kim,NaN,Male,2023-07-03,47593 NGN,USA,david.kim@email.com,-98,2022-12-07,Inactive
+0121,David Kim,?,female,Sep 11 2023,$89973,South Korea,david.kim@email,8639,2022/11/12,Actve
+0122,Eve Black,NaN,Female,Jan 15 2023,NaN,UK,eve.black@mail.com,NaN,Dec 04 2022,Actve
+0123,Emily Davis,NaN,F,Jan 11 2024,abc,Nigeria,emily.davis@email.com,,2022-13-01,Active
+0124,Mike Brown,60,F,2022-05-21,$76345,USA,mike.brown@email.com,1990,Sep 24 2023,Active
+0125,John Doe,44,male,2022-13-01,48788,South Korea,john.doe@mail.com,340.28,2022-13-01,Actve
+0126,Michael Johnson,35,M,2022-13-01,abc,UK,michael.johnson@email,345.18,2023-01-22,Active
+0127,Anna Lee,thirty,Male,25/06/2023,abc,Canada,anna.lee@email,5593,2022/02/03,Active
+0128,David Kim,66,M,2022-13-01,84699 NGN,South Korea,david.kim@email,198.08,2022-12-21,ACTIVE
+0129,Emily Davis,NaN,Male,Oct 12 2023,$62152,Nigeria,emily.davis@mail.com,4043,29/03/2022,Active
+0130,Mike Brown,139,F,2022-11-21,35997,United Kingdom,mike.brown@email,,not available,ACTIVE
+0131,Bob Gray,50,Male,2022-13-01,NaN,Nigeria,bob.gray@email,16.05,2022-13-01,Actve
+0132,Anna Lee,NaN,M,02/10/2022,$34146,NIG,anna.lee@email,NaN,2022-13-01,Actve
+0133,David Kim,26,F,2022/12/07,58850 USD,NIG,david.kim@mail.com,NaN,Dec 13 2023,active
+0134,Anna Lee,174,female,2022-13-01,$81247,Nigeria,anna.lee@email,147.35,2022-13-01,Active
+0135,Bob Gray,NaN,female,Mar 12 2022,abc,United Kingdom,bob.gray@email.com,-20,not available,Actve
+0136,Eve Black,229,F,2023/07/11,NaN,US,eve.black@email.com,,2022/02/15,ACTIVE
+0137,N/A,thirty,female,Jun 16 2023,54518 NGN,Canada,sarah.connor@mail.com,NaN,2023/05/10,ACTIVE
+0138,Mike Brown,NaN,M,18/12/2022,64151 NGN,Nigeria,mike.brown@email,NaN,not available,Active
+0139,N/A,127,Female,2022-13-01,NaN,United States,sarah.connor@email,-60,Jul 10 2022,Active
+0140,David Kim,45,female,2022/08/08,abc,US,david.kim@mail.com,NaN,2023/04/14,ACTIVE
+0141,Sam Wilson,thirty,F,2023/08/25,53067 NGN,United States,sam.wilson@mail.com,,2022-09-02,Inactive
+0142,Susan Green,,male,May 22 2022,42173 NGN,South Korea,susan.green@mail.com,-23,Jul 11 2022,Actve
+0143,Jane Smith,?,Female,2022-13-01,abc,Canada,jane.smith@email,-54,02/08/2023,active
+0144,Jane Smith,?,F,2022-13-01,63476,US,jane.smith@email,389.81,Mar 28 2023,Active
+0145,Emily Davis,NaN,M,Jun 01 2024,86707,UK,emily.davis@email.com,6744,19/06/2022,Inactive
+0146,Jane Smith,thirty,male,2022/06/22,NaN,United Kingdom,jane.smith@mail.com,,2024-03-15,active
+0147,Chris O'Neil,?,female,Nov 26 2022,$62077,United Kingdom,chris.oneil@mail.com,212.97,2024/02/07,ACTIVE
+0148,Eve Black,123,F,2023-10-13,NaN,NIG,eve.black@email.com,NaN,2022-13-01,Actve
+0149,Chris O'Neil,187,Male,Feb 17 2022,31067,United States,chris.oneil@email,,2022/11/06,Active
+0150,Susan Green,41,F,03/10/2023,abc,US,susan.green@mail.com,56.64,2022-08-20,Active
+0151,Robert Brown,,Male,2022-08-23,77891,US,robert.brown@email,-39,11/02/2024,Active
+0152,Sam Wilson,,M,10/01/2024,NaN,Canada,sam.wilson@email.com,52.48,Jan 29 2023,active
+0153,Chris O'Neil,?,male,2023-09-08,abc,United Kingdom,chris.oneil@email.com,-66,Feb 25 2022,ACTIVE
+0154,Sarah Connor,thirty,Male,05/01/2023,NaN,NIG,sarah.connor@email,277.71,not available,Active
+0155,John Doe,,male,Oct 21 2022,75993 NGN,US,john.doe@mail.com,NaN,not available,Active
+0156,Sam Wilson,thirty,M,2023/02/05,75788 NGN,UK,sam.wilson@email.com,-56,26/02/2022,Active
+0157,John Doe,?,F,22/12/2022,$54370,United Kingdom,john.doe@mail.com,NaN,2022/10/06,Actve
+0158,Mike Brown,50,F,2024/05/29,40309 USD,US,mike.brown@mail.com,4742,not available,Active
+0159,N/A,?,Female,2022-13-01,abc,NIG,emily.davis@email.com,NaN,2023-08-09,Actve
+0160,Jane Smith,69,F,2022/03/12,80693 USD,Nigeria,jane.smith@email.com,,2022-13-01,Inactive
+0161,Bob Gray,150,male,18/02/2024,30417 NGN,USA,bob.gray@email.com,NaN,not available,ACTIVE
+0162,Linda White,,F,2022/03/03,36096,UK,linda.white@mail.com,212.4,Jun 02 2023,Active
+0163,Jane Smith,NaN,M,May 21 2024,abc,Nigeria,jane.smith@email,,28/02/2024,Active
+0164,Anna Lee,38,male,Jan 02 2023,50205 NGN,United Kingdom,anna.lee@email.com,5984,not available,active
+0165,Chris O'Neil,,male,2022/02/20,$83745,USA,chris.oneil@email,428.75,2024-04-03,Active
+0166,Jane Smith,?,F,2022-13-01,68411 USD,US,jane.smith@email.com,,not available,active
+0167,N/A,?,male,Mar 20 2023,31932 NGN,NIG,sarah.connor@email.com,NaN,2022-13-01,Actve
+0168,Emily Davis,thirty,F,2022/03/04,$55101,NIG,emily.davis@email.com,5082,Jan 27 2023,Actve
+0169,Eve Black,NaN,F,2022-10-04,NaN,UK,eve.black@email.com,448.92,2022-13-01,Inactive
+0170,Anna Lee,NaN,male,15/04/2024,67728 NGN,Nigeria,anna.lee@email.com,NaN,2022-13-01,Actve
+0171,Chris O'Neil,thirty,M,2022-06-29,35915,UK,chris.oneil@mail.com,117.22,21/09/2023,active
+0172,Anna Lee,38,Female,2023-08-24,NaN,Nigeria,anna.lee@email.com,7481,06/11/2022,Inactive
+0173,Alice Blue,?,female,30/07/2023,NaN,United States,alice.blue@email,,2022-13-01,Active
+0174,Anna Lee,156,male,17/04/2022,abc,US,anna.lee@email.com,179.94,Nov 18 2023,Active
+0175,Michael Johnson,NaN,M,2024-03-16,33155 NGN,Canada,michael.johnson@mail.com,-22,2022-12-26,ACTIVE
+0176,Emily Davis,NaN,Male,2022-11-23,34862 USD,United States,emily.davis@email,88.84,2023-09-21,ACTIVE
+0177,Anna Lee,45,Male,06/12/2022,abc,South Korea,anna.lee@mail.com,NaN,Apr 09 2022,Actve
+0178,Kate Moss,NaN,Male,2023/03/14,abc,Canada,kate.moss@email.com,NaN,2023/04/30,ACTIVE
+0179,Eve Black,60,female,12/07/2023,54315 NGN,Nigeria,eve.black@email.com,-34,2022-13-01,Active
+0180,Chris O'Neil,60,female,2022-13-01,NaN,USA,chris.oneil@email,-54,2022/08/30,Active
+0181,Tom Hardy,thirty,male,2023-06-14,79623 NGN,United States,tom.hardy@email.com,486.36,01/12/2023,Inactive
+0182,Michael Johnson,64,F,2022-13-01,51373 USD,South Korea,michael.johnson@email,-2,2022-13-01,Actve
+0183,Sarah Connor,NaN,male,2022/12/19,abc,Canada,sarah.connor@mail.com,NaN,2023-09-26,ACTIVE
+0184,Robert Brown,NaN,M,2022/01/21,50378 USD,Canada,robert.brown@mail.com,NaN,2023/03/30,ACTIVE
+0185,Mike Brown,204,F,2024-02-17,$63768,US,mike.brown@email,3222,30/01/2022,Inactive
+0186,Jane Smith,NaN,female,2022/07/23,83969 NGN,South Korea,jane.smith@email,,01/09/2023,ACTIVE
+0187,Kate Moss,166,female,2022-04-03,55333,United States,kate.moss@mail.com,,2022-13-01,Active
+0188,John Doe,thirty,Male,2022-13-01,82762 USD,United Kingdom,john.doe@email,NaN,2022-13-01,Active
+0189,John Doe,thirty,female,2023/09/01,74853,Canada,john.doe@email.com,NaN,30/12/2023,Inactive
+0190,Sam Wilson,203,M,2023-11-29,72952 NGN,United Kingdom,sam.wilson@email,454.39,2023/08/09,Inactive
+0191,Kate Moss,thirty,M,2022-13-01,41870 USD,US,kate.moss@email,NaN,16/08/2022,active
+0192,Alice Blue,NaN,male,2022-10-29,60837,US,alice.blue@email,-65,28/02/2023,Inactive
+0193,David Kim,?,M,2024-06-02,61954 USD,United States,david.kim@email,NaN,2022-13-01,Inactive
+0194,Eve Black,?,male,Mar 21 2023,58116 NGN,NIG,eve.black@email.com,28.49,2024-02-15,Active
+0195,Emily Davis,?,Male,28/01/2023,34278,United Kingdom,emily.davis@email,NaN,2023/12/05,ACTIVE
+0196,Susan Green,28,Female,18/08/2022,78108,South Korea,susan.green@email.com,-92,2022-13-01,Active
+0197,Sarah Connor,112,Male,Mar 03 2023,NaN,United Kingdom,sarah.connor@email,NaN,2022-13-01,Actve
+0198,Chris O'Neil,230,male,2022-05-01,81430,Canada,chris.oneil@email.com,5308,2023/01/02,Inactive
+0199,Jane Smith,NaN,Female,2022-01-03,89433,Canada,jane.smith@email.com,475.23,14/04/2022,ACTIVE
+0200,Linda White,?,Male,2024/05/22,abc,Nigeria,linda.white@email,371.88,2023/11/11,active
+0201,Bob Gray,NaN,M,Jul 07 2022,56230 NGN,United Kingdom,bob.gray@email,,14/12/2023,Active
+0202,Alice Blue,245,F,2022/07/05,70065,United States,alice.blue@email,-15,not available,active
+0203,N/A,234,male,2024/01/12,NaN,US,robert.brown@email,NaN,19/10/2023,Actve
+0204,N/A,,F,2024-06-09,79245 NGN,Nigeria,jane.smith@email.com,1824,Oct 21 2023,Inactive
+0205,Mike Brown,,Male,May 27 2024,50713,Canada,mike.brown@mail.com,-14,not available,Actve
+0206,John Doe,thirty,male,2022/07/31,53812,UK,john.doe@email,NaN,27/04/2022,Active
+0207,Robert Brown,thirty,male,2023-01-18,$88777,Canada,robert.brown@email.com,412.7,2022-07-20,ACTIVE
+0208,David Kim,148,M,2022-04-21,abc,US,david.kim@email,,2022-13-01,ACTIVE
+0209,Eve Black,145,male,2022-06-27,abc,Nigeria,eve.black@mail.com,NaN,Dec 18 2022,Inactive
+0210,Chris O'Neil,NaN,female,2022-13-01,$71456,UK,chris.oneil@email.com,,2022-13-01,Actve
+0211,Robert Brown,thirty,F,2022-13-01,48738 NGN,USA,robert.brown@mail.com,62.17,24/07/2022,active
+0212,Michael Johnson,?,male,Feb 03 2022,NaN,South Korea,michael.johnson@email.com,,2024-03-26,ACTIVE
+0213,Tom Hardy,thirty,Male,14/01/2022,70669 NGN,UK,tom.hardy@mail.com,7025,10/09/2023,active
+0214,Bob Gray,?,Female,Jan 23 2024,32663 NGN,United Kingdom,bob.gray@mail.com,139.48,2023-12-28,Inactive
+0215,Robert Brown,,male,2023-07-18,abc,Nigeria,robert.brown@mail.com,117.78,2022-13-01,Actve
+0216,Tom Hardy,154,M,2022/12/06,NaN,South Korea,tom.hardy@email,498.35,2022-13-01,Actve
+0217,Emily Davis,,Male,2022-13-01,77446 USD,USA,emily.davis@mail.com,9426,14/02/2022,active
+0218,Sam Wilson,thirty,male,08/01/2022,abc,UK,sam.wilson@mail.com,4368,2024-06-18,Inactive
+0219,John Doe,39,Male,2022/02/25,66574,UK,john.doe@email,-58,2022-13-01,Active
+0220,Mike Brown,111,Male,2023/01/02,abc,United Kingdom,mike.brown@mail.com,-98,Nov 08 2023,Inactive
+0221,Kate Moss,thirty,M,2023/10/12,abc,Nigeria,kate.moss@email.com,281.23,not available,Actve
+0222,Tom Hardy,?,female,30/01/2024,abc,South Korea,tom.hardy@email.com,,2022-13-01,ACTIVE
+0223,Kate Moss,NaN,Male,2022/07/22,$53405,UK,kate.moss@email.com,NaN,2022-13-01,Inactive
+0224,Susan Green,45,M,Sep 10 2022,48132 USD,United States,susan.green@mail.com,-62,2022-13-01,Active
+0225,Anna Lee,?,male,2022-07-21,77672,USA,anna.lee@mail.com,7637,2022-13-01,Actve
+0226,Eve Black,,Female,01/03/2024,NaN,South Korea,eve.black@email.com,,2022-13-01,Inactive
+0227,Bob Gray,244,Female,2024/01/24,$32648,Canada,bob.gray@email.com,40.8,Jun 15 2023,ACTIVE
+0228,Bob Gray,20,female,2023/06/18,NaN,United States,bob.gray@email,2275,2022/08/17,active
+0229,Eve Black,thirty,Female,27/03/2023,NaN,United Kingdom,eve.black@email.com,6934,May 02 2022,active
+0230,Sarah Connor,?,male,2022-06-15,45969,United States,sarah.connor@mail.com,300.25,31/05/2022,active
+0231,Anna Lee,244,Male,2024-06-18,44194 NGN,Canada,anna.lee@email,3338,06/07/2022,active
+0232,Bob Gray,,F,2022-05-16,NaN,South Korea,bob.gray@mail.com,,2022-13-01,Actve
+0233,Sarah Connor,thirty,male,Apr 27 2024,64212 NGN,Nigeria,sarah.connor@email.com,-55,2022-13-01,Actve
+0234,Sarah Connor,?,Male,2022/10/18,42387,USA,sarah.connor@mail.com,-67,Dec 06 2023,active
+0235,Sarah Connor,NaN,M,2022-13-01,NaN,United Kingdom,sarah.connor@mail.com,7770,2023/05/10,Actve
+0236,Kate Moss,NaN,female,2023-02-12,$79008,Canada,kate.moss@mail.com,4513,13/12/2022,ACTIVE
+0237,John Doe,,male,2023-03-22,$47241,Nigeria,john.doe@email.com,-93,2022-13-01,Active
+0238,Anna Lee,?,female,03/04/2024,NaN,South Korea,anna.lee@mail.com,352.24,02/11/2023,Active
+0239,Michael Johnson,,male,2022-07-25,NaN,United Kingdom,michael.johnson@mail.com,NaN,2022-13-01,Inactive
+0240,Bob Gray,NaN,Female,2022-13-01,NaN,United Kingdom,bob.gray@email,5222,Aug 12 2023,ACTIVE
+0241,Eve Black,,female,Apr 17 2023,37619 USD,US,eve.black@email,NaN,2022/12/28,Inactive
+0242,Linda White,61,male,2022/07/02,$53169,United Kingdom,linda.white@email.com,-88,2022/08/29,Inactive
+0243,Emily Davis,?,Male,May 03 2022,70227,South Korea,emily.davis@email.com,-48,Aug 12 2023,Inactive
+0244,Sam Wilson,?,Male,Jun 23 2023,65439,South Korea,sam.wilson@email,-88,2023/12/17,Active
+0245,John Doe,42,M,06/01/2023,65950 USD,UK,john.doe@email,NaN,Mar 11 2023,active
+0246,Susan Green,?,male,2022-05-15,77239 USD,UK,susan.green@mail.com,,Jan 27 2024,Active
+0247,Anna Lee,thirty,female,2022/11/20,NaN,USA,anna.lee@email,,May 03 2023,active
+0248,Michael Johnson,NaN,M,2022-01-21,abc,UK,michael.johnson@mail.com,,2022/10/19,Actve
+0249,Eve Black,,male,21/10/2022,$86902,Nigeria,eve.black@email,319.32,not available,active
+0250,Emily Davis,174,M,2023/09/12,88175 NGN,Nigeria,emily.davis@mail.com,,24/01/2022,active
+0251,Mike Brown,43,Male,2022-13-01,33527,NIG,mike.brown@mail.com,NaN,2022/03/28,Inactive
+0252,Emily Davis,?,male,2024-05-08,abc,Nigeria,emily.davis@email,NaN,2022-13-01,Actve
+0253,Bob Gray,,male,2023/10/18,NaN,UK,bob.gray@email.com,NaN,2022-13-01,Inactive
+0254,Susan Green,102,F,2024/02/13,30598 NGN,United Kingdom,susan.green@mail.com,NaN,Jul 29 2023,Inactive
+0255,Anna Lee,,Female,Sep 27 2022,$70981,South Korea,anna.lee@mail.com,NaN,Jun 29 2023,Inactive
+0256,Mike Brown,128,F,2023/09/25,NaN,Canada,mike.brown@email.com,1813,not available,Active
+0257,Linda White,212,Male,27/08/2022,30965 NGN,UK,linda.white@email,-64,2022-02-02,Inactive
+0258,Jane Smith,thirty,F,2022/07/05,83559 NGN,USA,jane.smith@email.com,-92,2023-03-30,Inactive
+0259,Bob Gray,233,Female,2023/04/30,$51172,USA,bob.gray@mail.com,NaN,2022/11/02,Active
+0260,David Kim,NaN,Male,2022-13-01,37841 NGN,UK,david.kim@email.com,8786,29/02/2024,Inactive
+0261,Eve Black,186,Male,03/03/2022,NaN,US,eve.black@email.com,-41,2022/01/22,Inactive
+0262,Michael Johnson,thirty,M,10/07/2023,$67139,South Korea,michael.johnson@email,5510,2023-07-22,Actve
+0263,Chris O'Neil,thirty,M,2022-13-01,abc,United States,chris.oneil@email.com,NaN,06/11/2023,Actve
+0264,Eve Black,NaN,F,2023-10-19,NaN,US,eve.black@email.com,419.24,2023-05-13,Active
+0265,Tom Hardy,51,M,2022-08-15,abc,Canada,tom.hardy@email.com,NaN,2023-03-02,Actve
+0266,Michael Johnson,NaN,Male,2022-08-10,$77524,South Korea,michael.johnson@email,5075,2022-07-03,Actve
+0267,Susan Green,62,Female,2022-13-01,NaN,Nigeria,susan.green@mail.com,NaN,2023/07/18,ACTIVE
+0268,Alice Blue,thirty,male,2022-13-01,78796 USD,Nigeria,alice.blue@email,229.27,2022-13-01,Inactive
+0269,N/A,NaN,Male,2022-13-01,NaN,United States,linda.white@email.com,,20/08/2023,active
+0270,Linda White,?,female,Mar 21 2022,41331 NGN,US,linda.white@mail.com,324.7,2024/02/29,ACTIVE
+0271,Alice Blue,158,female,May 19 2024,33547 USD,South Korea,alice.blue@email.com,NaN,2022-08-15,ACTIVE
+0272,Bob Gray,54,Female,Mar 19 2023,$39700,Nigeria,bob.gray@email.com,1807,2022-13-01,ACTIVE
+0273,Chris O'Neil,?,F,2022-13-01,abc,South Korea,chris.oneil@email.com,NaN,2023-08-13,ACTIVE
+0274,Alice Blue,NaN,male,2023/11/03,41092 USD,Canada,alice.blue@mail.com,,2022-06-09,Active
+0275,Emily Davis,27,M,2023/12/12,59495 NGN,USA,emily.davis@email,,2022-13-01,ACTIVE
+0276,Chris O'Neil,,male,2023/11/11,41162,United Kingdom,chris.oneil@email.com,396.7,Jan 09 2022,active
+0277,Susan Green,174,F,2022-13-01,76510,Nigeria,susan.green@email,,2023-04-14,Inactive
+0278,Sam Wilson,200,Female,2022/01/19,abc,United Kingdom,sam.wilson@email.com,498.04,2024-06-18,Actve
+0279,Michael Johnson,200,Female,2022-13-01,NaN,UK,michael.johnson@email,NaN,2022-13-01,Inactive
+0280,David Kim,238,Female,2024/06/02,abc,South Korea,david.kim@email.com,3378,2022-13-01,Actve
+0281,Sarah Connor,NaN,F,Feb 26 2023,abc,United Kingdom,sarah.connor@email.com,,not available,Actve
+0282,Michael Johnson,thirty,Female,2022/08/25,abc,Canada,michael.johnson@email.com,NaN,Feb 01 2023,Inactive
+0283,Anna Lee,20,M,27/02/2023,$79661,US,anna.lee@email.com,NaN,Sep 10 2022,Active
+0284,Tom Hardy,thirty,male,2022-13-01,37164 NGN,Canada,tom.hardy@email.com,9498,2022-13-01,ACTIVE
+0285,Sam Wilson,NaN,F,2023/02/12,$60234,NIG,sam.wilson@email,,2023-10-24,Actve
+0286,Sarah Connor,?,F,Feb 28 2023,$31632,Canada,sarah.connor@mail.com,449.34,2023-12-10,Active
+0287,Sarah Connor,58,male,2022-13-01,$70112,NIG,sarah.connor@mail.com,NaN,07/11/2023,Inactive
+0288,Anna Lee,NaN,M,2024/01/18,$71055,US,anna.lee@email.com,480.61,2022-13-01,Active
+0289,Eve Black,,F,2022-13-01,69328,UK,eve.black@mail.com,146.28,2022-02-26,Inactive
+0290,Jane Smith,NaN,Male,Feb 20 2022,$41681,United Kingdom,jane.smith@mail.com,-90,2023-01-04,active
+0291,Robert Brown,,male,Mar 08 2022,38817,United Kingdom,robert.brown@email,,Apr 22 2022,Actve
+0292,Linda White,thirty,male,01/10/2023,NaN,Canada,linda.white@mail.com,,27/08/2022,Active
+0293,N/A,130,Female,Mar 29 2024,32981 USD,Nigeria,sarah.connor@mail.com,,2022/09/18,active
+0294,Sam Wilson,67,female,Dec 08 2022,NaN,USA,sam.wilson@email.com,-44,Oct 24 2023,Inactive
+0295,Bob Gray,,F,2022-13-01,NaN,Nigeria,bob.gray@mail.com,NaN,not available,Inactive
+0296,Michael Johnson,196,male,2022-13-01,69694 NGN,United States,michael.johnson@mail.com,NaN,2022-10-06,ACTIVE
+0297,Emily Davis,thirty,M,2022/06/29,81442,UK,emily.davis@email.com,8907,2022-13-01,active
+0298,Robert Brown,232,Female,Jul 30 2022,abc,South Korea,robert.brown@email.com,NaN,2022-13-01,active
+0299,John Doe,NaN,Female,2022/07/17,64883 USD,Canada,john.doe@mail.com,NaN,30/09/2023,Actve
+0300,Susan Green,136,M,11/08/2023,34668 USD,Nigeria,susan.green@mail.com,-17,Feb 21 2022,Active
+0301,Mike Brown,thirty,M,16/11/2022,abc,South Korea,mike.brown@email.com,8629,2024-04-12,ACTIVE
+0302,Linda White,,Female,2022-13-01,46911 USD,NIG,linda.white@email.com,NaN,Jan 31 2022,Active
+0303,Susan Green,NaN,male,2022-13-01,36745 NGN,US,susan.green@email,5949,28/08/2023,Actve
+0304,Emily Davis,48,M,Aug 02 2022,67172 USD,South Korea,emily.davis@mail.com,2276,2022/04/28,Actve
+0305,Sarah Connor,,Male,2022-13-01,80550 NGN,Nigeria,sarah.connor@email,,18/08/2023,Inactive
+0306,Bob Gray,,Female,2022/07/30,abc,United Kingdom,bob.gray@email,2462,not available,Actve
+0307,Tom Hardy,NaN,male,2022-13-01,83788 USD,US,tom.hardy@email,8073,Nov 22 2022,ACTIVE
+0308,Alice Blue,,Female,2022/07/12,85047 NGN,United States,alice.blue@email,,not available,Active
+0309,Chris O'Neil,?,Male,May 21 2022,abc,NIG,chris.oneil@mail.com,7948,29/01/2023,Inactive
+0310,Alice Blue,227,Female,Dec 31 2023,NaN,Nigeria,alice.blue@email.com,NaN,09/05/2023,Actve
+0311,Michael Johnson,thirty,Male,2022-09-09,abc,South Korea,michael.johnson@mail.com,6628,2022-13-01,ACTIVE
+0312,Robert Brown,NaN,Female,2022-13-01,47068,Canada,robert.brown@mail.com,5780,not available,ACTIVE
+0313,Mike Brown,NaN,Female,2023/09/23,86220 USD,USA,mike.brown@mail.com,-23,29/06/2022,ACTIVE
+0314,Anna Lee,20,Female,Sep 02 2023,79332 NGN,NIG,anna.lee@email.com,,2024-05-12,active
+0315,Sarah Connor,,M,May 03 2023,abc,NIG,sarah.connor@email,138.69,Mar 27 2024,active
+0316,Sam Wilson,thirty,female,2022-13-01,72733 USD,Nigeria,sam.wilson@email,5183,2022-13-01,Inactive
+0317,Sam Wilson,NaN,male,2022-01-11,30783 NGN,US,sam.wilson@mail.com,,2022-09-15,Active
+0318,Mike Brown,thirty,female,2022-05-05,NaN,United States,mike.brown@email,331.63,Sep 17 2022,Active
+0319,Bob Gray,209,female,2024/02/28,40614,United Kingdom,bob.gray@email.com,NaN,Sep 29 2022,Active
+0320,Eve Black,?,female,19/05/2023,65430 NGN,UK,eve.black@mail.com,325.24,not available,Active
+0321,Michael Johnson,?,female,2023-10-18,73555 NGN,United Kingdom,michael.johnson@email.com,1060,Feb 29 2024,ACTIVE
+0322,Tom Hardy,thirty,Female,Jan 04 2022,NaN,South Korea,tom.hardy@email,173.39,2023/10/25,Actve
+0323,Robert Brown,174,Female,Jun 30 2022,$73301,United Kingdom,robert.brown@mail.com,-14,not available,ACTIVE
+0324,David Kim,106,male,Sep 02 2022,NaN,United Kingdom,david.kim@email,271.63,Dec 12 2022,Active
+0325,David Kim,,female,2022-13-01,45268,USA,david.kim@mail.com,-84,26/09/2023,Inactive
+0326,John Doe,21,F,2022-13-01,34191,US,john.doe@email,301.54,Mar 13 2023,active
+0327,Sarah Connor,?,M,2024-05-06,$68868,Nigeria,sarah.connor@email.com,,Jul 21 2023,Inactive
+0328,Jane Smith,?,Male,2024-06-19,30416,United States,jane.smith@email.com,-76,22/03/2024,Inactive
+0329,Chris O'Neil,,Female,2022-13-01,abc,Canada,chris.oneil@mail.com,NaN,26/07/2023,Active
+0330,Sam Wilson,thirty,male,13/08/2022,48115,UK,sam.wilson@email.com,-88,2023-11-18,active
+0331,Linda White,thirty,F,2022-02-14,$65216,United States,linda.white@email.com,,Aug 30 2023,Inactive
+0332,Robert Brown,?,Male,31/08/2022,$54610,US,robert.brown@email,,17/09/2023,ACTIVE
+0333,Susan Green,149,M,2022/10/04,38336,USA,susan.green@email,-60,2022/12/18,Actve
+0334,Anna Lee,thirty,male,2024-05-25,NaN,Canada,anna.lee@email.com,299.87,24/01/2024,active
+0335,Alice Blue,thirty,Male,2023-03-04,abc,South Korea,alice.blue@email.com,218.59,2022-13-01,Active
+0336,Alice Blue,NaN,Female,2023-10-26,abc,United Kingdom,alice.blue@email.com,-74,22/05/2022,active
+0337,Bob Gray,,female,2022/12/07,57911 USD,South Korea,bob.gray@mail.com,2326,2022-13-01,active
+0338,Jane Smith,thirty,Male,10/01/2023,NaN,US,jane.smith@mail.com,NaN,2022-13-01,Inactive
+0339,Emily Davis,228,F,2022-10-11,54432 USD,Canada,emily.davis@email,8703,Jun 30 2023,Actve
+0340,Susan Green,?,F,Mar 31 2022,$88847,United Kingdom,susan.green@email.com,,2022-13-01,Active
+0341,Linda White,?,F,Dec 22 2022,abc,USA,linda.white@email,4806,2023/02/26,ACTIVE
+0342,Sam Wilson,NaN,male,16/05/2022,81725 USD,UK,sam.wilson@email,,2022-13-01,Inactive
+0343,Kate Moss,?,Female,2022/04/30,$67652,Canada,kate.moss@email,NaN,Jun 01 2022,Actve
+0344,Anna Lee,,F,Feb 26 2024,$50985,USA,anna.lee@mail.com,NaN,2022-13-01,ACTIVE
+0345,Robert Brown,64,Female,2023/11/26,31625 NGN,UK,robert.brown@email,1901,2023/08/21,Inactive
+0346,John Doe,thirty,F,2022/07/19,NaN,South Korea,john.doe@email.com,,Mar 14 2023,active
+0347,John Doe,,male,Mar 31 2022,78596 NGN,Canada,john.doe@email,-94,25/08/2023,Inactive
+0348,Linda White,51,male,2024-02-14,30433 NGN,United Kingdom,linda.white@email,,2022-13-01,ACTIVE
+0349,Jane Smith,NaN,F,27/07/2023,31758,United States,jane.smith@email,157.08,22/10/2022,ACTIVE
+0350,N/A,,Male,2022-13-01,NaN,NIG,emily.davis@email,NaN,2023/08/13,Inactive
+0351,Jane Smith,NaN,Female,2022/02/24,abc,Nigeria,jane.smith@email.com,2258,2023-10-06,Actve
+0352,Anna Lee,NaN,female,2023-12-16,NaN,Nigeria,anna.lee@email.com,NaN,26/02/2023,Active
+0353,David Kim,thirty,male,Dec 08 2023,60178,US,david.kim@email.com,NaN,2022-13-01,Actve
+0354,Robert Brown,107,Male,16/08/2022,$75091,United Kingdom,robert.brown@email.com,112.82,not available,ACTIVE
+0355,N/A,108,male,Aug 31 2023,37793 USD,USA,alice.blue@email.com,157.81,30/07/2022,active
+0356,John Doe,thirty,M,2022-13-01,abc,UK,john.doe@mail.com,1229,16/07/2022,Actve
+0357,John Doe,thirty,female,2022-13-01,42132 NGN,US,john.doe@email.com,,2023/02/22,Active
+0358,Bob Gray,NaN,female,2022-10-23,51503 NGN,US,bob.gray@email,-77,Feb 22 2023,Inactive
+0359,Mike Brown,221,M,Jul 03 2022,74046,NIG,mike.brown@email,266.1,15/02/2023,Active
+0360,Susan Green,thirty,F,May 06 2022,77526 NGN,United Kingdom,susan.green@mail.com,-76,Nov 14 2023,Actve
+0361,Michael Johnson,47,M,17/05/2023,$71180,USA,michael.johnson@email.com,371.52,27/01/2023,active
+0362,Sarah Connor,,F,Jul 26 2022,NaN,United Kingdom,sarah.connor@mail.com,178.37,2022-02-02,ACTIVE
+0363,Bob Gray,,Male,2022-13-01,73215 USD,United States,bob.gray@email,-40,2022-13-01,Actve
+0364,Eve Black,28,F,2022-13-01,NaN,Nigeria,eve.black@email,,2022/12/24,ACTIVE
+0365,Sarah Connor,NaN,Male,09/11/2023,abc,United Kingdom,sarah.connor@mail.com,NaN,2022-13-01,active
+0366,Jane Smith,thirty,F,Oct 01 2022,68534,Nigeria,jane.smith@email,-42,2023/11/23,ACTIVE
+0367,Sam Wilson,?,male,Nov 03 2022,43222 NGN,US,sam.wilson@mail.com,NaN,2022-13-01,Active
+0368,Sarah Connor,thirty,male,02/05/2023,52761,United Kingdom,sarah.connor@mail.com,NaN,2022-13-01,Actve
+0369,Bob Gray,53,female,2022-13-01,$62715,Canada,bob.gray@email,8106,2022/03/03,ACTIVE
+0370,Chris O'Neil,,F,23/11/2022,85441 NGN,United Kingdom,chris.oneil@email,-33,2022-06-03,Inactive
+0371,Linda White,,female,07/02/2022,$47872,USA,linda.white@email,396.94,2023-05-13,Active
+0372,Robert Brown,NaN,female,Nov 05 2023,abc,United States,robert.brown@email.com,64.85,Apr 28 2024,Active
+0373,Emily Davis,NaN,male,25/01/2024,$57713,United States,emily.davis@email.com,-36,Aug 27 2023,Actve
+0374,Susan Green,thirty,F,2023/05/02,$87634,Nigeria,susan.green@email,1345,not available,Active
+0375,Emily Davis,179,female,2022-13-01,$86816,Canada,emily.davis@email,NaN,not available,Inactive
+0376,Linda White,212,M,2024-06-19,47959,Canada,linda.white@email,371.1,2022-13-01,Active
+0377,Susan Green,240,M,2023-04-10,abc,United States,susan.green@mail.com,227.27,2023/10/06,Actve
+0378,Mike Brown,232,female,2022-13-01,74941 NGN,Nigeria,mike.brown@email,NaN,2023/08/31,Inactive
+0379,Mike Brown,,male,2022-08-18,abc,UK,mike.brown@email.com,,not available,Actve
+0380,Alice Blue,NaN,Female,2023-08-04,NaN,NIG,alice.blue@email,,2022/07/15,ACTIVE
+0381,Tom Hardy,NaN,female,Nov 25 2023,41820 NGN,United States,tom.hardy@email.com,4858,2022-13-01,ACTIVE
+0382,N/A,182,F,Dec 05 2023,76429 NGN,United Kingdom,mike.brown@email.com,NaN,2022-13-01,Actve
+0383,N/A,NaN,F,19/11/2023,NaN,USA,jane.smith@mail.com,-22,17/06/2024,Active
+0384,Robert Brown,NaN,Male,17/11/2022,62716 USD,Nigeria,robert.brown@email,5321,Jun 18 2022,Inactive
+0385,Kate Moss,60,Female,02/06/2022,42002,Canada,kate.moss@email,90.14,May 22 2023,active
+0386,Kate Moss,128,Female,2022-05-07,43351 USD,United States,kate.moss@email.com,4479,Jan 05 2022,Active
+0387,Emily Davis,NaN,Male,Oct 19 2022,NaN,US,emily.davis@email,-11,2022/10/03,Active
+0388,Bob Gray,?,Female,2024/06/02,51179,US,bob.gray@mail.com,-49,2022-09-03,Active
+0389,David Kim,NaN,female,2024-02-10,49565 NGN,NIG,david.kim@mail.com,NaN,2022-13-01,Inactive
+0390,Eve Black,NaN,male,2023-09-07,79577 NGN,Nigeria,eve.black@mail.com,101.31,not available,active
+0391,Bob Gray,,male,2023/10/07,60685 NGN,US,bob.gray@email,,2022-13-01,Active
+0392,Jane Smith,,Male,2023/04/21,NaN,US,jane.smith@mail.com,,2024-05-13,Active
+0393,Alice Blue,thirty,female,2022-13-01,82942 USD,Nigeria,alice.blue@email.com,113.42,Jan 19 2022,Active
+0394,John Doe,217,F,2024/06/08,NaN,Nigeria,john.doe@mail.com,NaN,not available,Inactive
+0395,John Doe,104,Female,29/05/2024,abc,United States,john.doe@mail.com,,not available,ACTIVE
+0396,Chris O'Neil,?,Female,Jan 27 2024,60899,Canada,chris.oneil@mail.com,128.89,Apr 16 2022,ACTIVE
+0397,Kate Moss,,F,10/06/2023,76811,South Korea,kate.moss@email.com,NaN,2023-03-04,ACTIVE
+0398,Susan Green,?,M,Jan 14 2024,52534 NGN,UK,susan.green@mail.com,6556,03/01/2024,active
+0399,Tom Hardy,,Female,2023/09/29,abc,US,tom.hardy@mail.com,,Apr 14 2022,active
+0400,Emily Davis,NaN,M,01/01/2023,NaN,USA,emily.davis@email.com,175.49,2023/05/14,active
+0401,Jane Smith,?,female,2024-06-13,58693 NGN,US,jane.smith@email.com,2669,not available,Active
+0402,Anna Lee,?,female,2022-13-01,abc,US,anna.lee@email.com,327.08,2023-03-26,Inactive
+0403,Eve Black,50,M,2023/01/17,abc,UK,eve.black@email.com,,Mar 16 2023,ACTIVE
+0404,Sam Wilson,,Female,2022-13-01,34560,Nigeria,sam.wilson@email,-99,not available,Active
+0405,Chris O'Neil,NaN,F,2023/02/16,89587 USD,USA,chris.oneil@email,-79,2022/07/30,ACTIVE
+0406,David Kim,thirty,M,2022-13-01,65441 USD,UK,david.kim@email.com,NaN,2022-06-13,Actve
+0407,Michael Johnson,177,F,2023-06-02,85154 USD,United Kingdom,michael.johnson@mail.com,258.67,Aug 10 2023,active
+0408,Emily Davis,244,female,2023/11/13,49608 USD,United States,emily.davis@mail.com,195.06,2023/08/20,ACTIVE
+0409,Sarah Connor,45,Male,05/03/2022,$61211,Canada,sarah.connor@email.com,7598,2024/03/08,Actve
+0410,Eve Black,225,F,23/04/2024,$63147,Canada,eve.black@mail.com,9408,Aug 06 2022,Active
+0411,Anna Lee,thirty,F,2022/04/23,67471 USD,USA,anna.lee@mail.com,NaN,13/05/2023,Inactive
+0412,N/A,?,Female,2024-04-18,NaN,Nigeria,alice.blue@email.com,8883,Apr 09 2023,ACTIVE
+0413,Chris O'Neil,,female,2023/04/05,NaN,NIG,chris.oneil@email,6554,not available,ACTIVE
+0414,Michael Johnson,thirty,female,2022-13-01,72281,South Korea,michael.johnson@email.com,9877,Aug 07 2023,Actve
+0415,John Doe,52,M,16/03/2024,abc,Canada,john.doe@email.com,-78,2023/05/19,ACTIVE
+0416,Anna Lee,,M,2022-04-04,$65506,United Kingdom,anna.lee@email.com,,2023-02-22,Actve
+0417,Robert Brown,NaN,F,12/04/2022,57054 USD,United Kingdom,robert.brown@email,,Sep 04 2023,Actve
+0418,Sam Wilson,25,M,2023-04-21,61730,NIG,sam.wilson@mail.com,5409,23/11/2023,Actve
+0419,Chris O'Neil,44,female,28/05/2023,NaN,United States,chris.oneil@email.com,273.39,not available,ACTIVE
+0420,Linda White,28,F,Oct 07 2022,abc,UK,linda.white@mail.com,,2023/07/31,Active
+0421,Tom Hardy,NaN,F,2022/08/04,71626 USD,Canada,tom.hardy@email,,2023-09-06,Inactive
+0422,John Doe,102,Female,Feb 28 2023,65266,US,john.doe@mail.com,25.16,2022-13-01,active
+0423,Tom Hardy,67,F,Jan 15 2023,$30613,USA,tom.hardy@email,,not available,Actve
+0424,Linda White,,M,Feb 07 2022,abc,UK,linda.white@email.com,106.08,06/08/2023,Actve
+0425,David Kim,?,Male,2023-08-26,38351 USD,UK,david.kim@mail.com,367.16,2022-13-01,ACTIVE
+0426,John Doe,NaN,F,2024/05/14,abc,South Korea,john.doe@email,,not available,ACTIVE
+0427,Kate Moss,?,M,25/03/2022,75190 NGN,US,kate.moss@email.com,106.47,Apr 10 2022,ACTIVE
+0428,John Doe,NaN,Female,21/04/2022,52334,Nigeria,john.doe@mail.com,399.11,2023-08-16,Active
+0429,Jane Smith,?,Male,2024-04-01,NaN,NIG,jane.smith@email.com,NaN,2022-13-01,ACTIVE
+0430,Emily Davis,,F,2022-13-01,70581,Nigeria,emily.davis@mail.com,8439,2022-07-17,Active
+0431,Mike Brown,?,female,2023/06/06,57591 NGN,Canada,mike.brown@email.com,,2023/03/23,Actve
+0432,Kate Moss,NaN,male,2022/12/18,NaN,United States,kate.moss@email.com,-72,2022-07-25,active
+0433,David Kim,thirty,female,2022-13-01,49636 NGN,Nigeria,david.kim@email.com,,17/10/2023,ACTIVE
+0434,David Kim,184,F,30/07/2022,84138,Nigeria,david.kim@email.com,,2022-07-19,Active
+0435,David Kim,NaN,female,2022-13-01,$46119,UK,david.kim@email.com,96.28,2022-05-21,active
+0436,David Kim,NaN,female,2022-06-25,$37765,United States,david.kim@email.com,NaN,2023-10-14,Actve
+0437,David Kim,NaN,Female,24/02/2022,NaN,Canada,david.kim@email.com,,Feb 09 2024,Actve
+0438,Bob Gray,thirty,female,May 10 2023,NaN,NIG,bob.gray@mail.com,,27/07/2022,ACTIVE
+0439,David Kim,?,M,18/09/2022,79258,United Kingdom,david.kim@email,-30,Dec 11 2022,ACTIVE
+0440,Alice Blue,NaN,M,27/01/2023,$58946,United Kingdom,alice.blue@mail.com,5825,2023/10/22,Inactive
+0441,Sarah Connor,thirty,Female,2022/12/08,46385 USD,United Kingdom,sarah.connor@email.com,NaN,not available,active
+0442,Linda White,,male,Feb 15 2024,NaN,United States,linda.white@email,-93,Aug 25 2023,active
+0443,Mike Brown,209,F,Aug 03 2022,NaN,USA,mike.brown@email,78.09,2023/11/06,Inactive
+0444,Alice Blue,203,male,2022-13-01,NaN,USA,alice.blue@email.com,-43,2022-13-01,ACTIVE
+0445,David Kim,,female,08/11/2022,abc,South Korea,david.kim@email.com,25.71,2022/03/13,Inactive
+0446,Emily Davis,,Male,13/01/2023,51415 NGN,NIG,emily.davis@email.com,-17,12/03/2022,Inactive
+0447,David Kim,?,male,2022-13-01,NaN,Canada,david.kim@email,108.83,2022-13-01,active
+0448,Eve Black,110,Male,2022/10/22,abc,United Kingdom,eve.black@email,,Sep 25 2023,ACTIVE
+0449,Anna Lee,200,Male,2022/09/03,abc,South Korea,anna.lee@email,-9,2024/02/20,Active
+0450,Sarah Connor,,F,18/06/2022,63165,Canada,sarah.connor@email.com,-89,Feb 13 2023,Active
+0451,John Doe,NaN,female,Feb 06 2024,60235,US,john.doe@mail.com,,13/10/2022,Active
+0452,Sarah Connor,236,F,2022-06-22,74392 USD,United States,sarah.connor@email,1564,2022-13-01,Active
+0453,Tom Hardy,thirty,Male,19/02/2022,46364 USD,UK,tom.hardy@email.com,54.78,16/07/2022,Active
+0454,Anna Lee,thirty,Male,2024/04/15,abc,UK,anna.lee@mail.com,-70,2022/08/07,active
+0455,N/A,59,F,06/08/2022,abc,United Kingdom,anna.lee@mail.com,,2024-02-25,Actve
+0456,Anna Lee,183,female,2023/02/02,abc,Nigeria,anna.lee@mail.com,1289,2022-13-01,Inactive
+0457,Sam Wilson,18,male,2024/02/17,abc,NIG,sam.wilson@email.com,NaN,Jul 26 2022,Inactive
+0458,Jane Smith,213,M,2022/05/18,72179,South Korea,jane.smith@email,,06/12/2022,Inactive
+0459,Kate Moss,163,female,2022-13-01,87193 NGN,South Korea,kate.moss@email,99.94,2022-03-13,Inactive
+0460,David Kim,?,Female,Jun 04 2023,77512 NGN,United Kingdom,david.kim@email.com,,2022-13-01,ACTIVE
+0461,David Kim,68,M,12/02/2023,60848 NGN,NIG,david.kim@mail.com,-56,not available,ACTIVE
+0462,Alice Blue,thirty,male,2022/06/06,54933 NGN,United Kingdom,alice.blue@email,148.78,03/01/2024,Inactive
+0463,N/A,,F,2023/03/02,55168 NGN,United Kingdom,david.kim@mail.com,493.89,2022-13-01,Inactive
+0464,David Kim,thirty,female,2023-05-16,72657 NGN,NIG,david.kim@mail.com,NaN,24/11/2023,active
+0465,Bob Gray,?,male,2023-08-16,37650,NIG,bob.gray@email,,2022/06/19,active
+0466,Sam Wilson,thirty,M,2024-01-22,abc,Nigeria,sam.wilson@email.com,NaN,not available,Inactive
+0467,N/A,thirty,F,Nov 02 2023,$41182,Nigeria,eve.black@email.com,,2022-13-01,Inactive
+0468,Anna Lee,?,M,Jun 11 2024,NaN,US,anna.lee@mail.com,-38,2022-03-07,Actve
+0469,Emily Davis,61,Male,2022-13-01,81721,US,emily.davis@email.com,7154,Feb 19 2024,ACTIVE
+0470,Robert Brown,194,M,2022/11/19,73586 NGN,NIG,robert.brown@mail.com,38.05,not available,ACTIVE
+0471,N/A,NaN,female,2024/02/09,NaN,Canada,chris.oneil@mail.com,NaN,not available,active
+0472,Jane Smith,183,F,Aug 28 2022,NaN,US,jane.smith@email,-61,2022-13-01,Actve
+0473,N/A,NaN,female,16/07/2023,88747 NGN,US,sam.wilson@email,,2023-11-07,ACTIVE
+0474,John Doe,NaN,Female,Jan 07 2024,abc,US,john.doe@mail.com,76.52,2022-13-01,Actve
+0475,Mike Brown,197,female,14/03/2024,44650 USD,US,mike.brown@email,6574,2022-13-01,active
+0476,Chris O'Neil,247,Male,2022-13-01,$65101,NIG,chris.oneil@email,3069,2023-08-28,ACTIVE
+0477,John Doe,?,M,May 07 2024,74563 NGN,United States,john.doe@mail.com,1562,2023/05/30,Actve
+0478,Eve Black,NaN,female,2023/01/21,abc,UK,eve.black@mail.com,,2024/01/15,Inactive
+0479,John Doe,208,F,Dec 23 2022,NaN,United Kingdom,john.doe@email,-25,not available,active
+0480,Jane Smith,,female,Jun 17 2022,75610 NGN,United Kingdom,jane.smith@email.com,112.79,26/05/2024,ACTIVE
+0481,Alice Blue,28,M,2023-05-01,NaN,Nigeria,alice.blue@mail.com,,not available,Inactive
+0482,Tom Hardy,144,female,Jan 20 2023,abc,NIG,tom.hardy@email,319.84,Mar 26 2022,Actve
+0483,N/A,,M,2022-13-01,41868 NGN,Canada,emily.davis@mail.com,354.34,Jan 01 2024,Active
+0484,Tom Hardy,,Male,16/06/2023,73160,United States,tom.hardy@mail.com,NaN,12/05/2022,Active
+0485,Kate Moss,66,Male,2023/06/03,$65679,NIG,kate.moss@mail.com,1756,28/10/2022,Actve
+0486,Eve Black,thirty,male,2023-06-07,73425,UK,eve.black@email.com,,2022/08/10,Inactive
+0487,Alice Blue,,female,Jun 17 2022,35456 USD,NIG,alice.blue@mail.com,NaN,2023/12/15,Actve
+0488,Sam Wilson,NaN,F,2022-13-01,46220,United Kingdom,sam.wilson@email.com,-88,not available,Active
+0489,Susan Green,?,Female,2022-10-08,$54717,NIG,susan.green@email.com,3879,2022-11-10,Actve
+0490,Susan Green,NaN,male,12/04/2022,50840 NGN,United States,susan.green@email,9711,May 20 2024,Actve
+0491,Chris O'Neil,231,Female,05/11/2023,NaN,United Kingdom,chris.oneil@email.com,,05/03/2023,ACTIVE
+0492,Susan Green,NaN,F,2023/06/18,71656,United Kingdom,susan.green@email,387.58,2022-13-01,Active
+0493,Mike Brown,53,F,Nov 25 2023,NaN,South Korea,mike.brown@mail.com,71.1,21/12/2023,Actve
+0494,Jane Smith,?,Female,18/03/2022,63664 USD,USA,jane.smith@email,252.8,2022-13-01,Active
+0495,Linda White,?,Male,26/01/2024,abc,South Korea,linda.white@email.com,468.35,2023/09/23,active
+0496,Susan Green,,M,Jan 10 2022,$62246,US,susan.green@mail.com,262.02,2022/01/08,Inactive
+0497,Eve Black,,Female,2023-07-04,abc,Canada,eve.black@email.com,78.54,2024-06-10,Inactive
+0498,N/A,207,M,02/02/2022,abc,United Kingdom,linda.white@email.com,,2022-13-01,ACTIVE
+0499,Chris O'Neil,?,Female,19/12/2022,abc,Nigeria,chris.oneil@email,-95,2022-10-16,ACTIVE
+0500,Emily Davis,?,Female,2022/10/15,$75937,NIG,emily.davis@email.com,9230,25/05/2024,Active
+0501,Chris O'Neil,?,F,2022-01-19,86646,NIG,chris.oneil@email,,2022-13-01,ACTIVE
+0502,Jane Smith,NaN,M,30/12/2023,50961,United States,jane.smith@email.com,,Oct 14 2022,Inactive
+0503,Michael Johnson,NaN,Male,2022-13-01,$80493,Nigeria,michael.johnson@email,9664,28/10/2023,Actve
+0504,Tom Hardy,133,female,2023-09-09,abc,UK,tom.hardy@email.com,2226,05/11/2022,Actve
+0505,N/A,thirty,female,2022/09/16,abc,US,chris.oneil@email,9581,20/06/2022,active
+0506,Jane Smith,148,F,22/05/2023,NaN,NIG,jane.smith@mail.com,,2022-13-01,Active
+0507,Sam Wilson,NaN,M,2024/05/22,76416 USD,South Korea,sam.wilson@email.com,,2023/10/17,Inactive
+0508,Michael Johnson,?,male,2022/04/29,NaN,Nigeria,michael.johnson@email,NaN,2023/02/23,Active
+0509,John Doe,?,M,Jan 17 2022,72849 USD,South Korea,john.doe@email.com,NaN,07/10/2023,ACTIVE
+0510,Emily Davis,?,F,06/04/2022,$60106,United States,emily.davis@email.com,NaN,not available,Inactive
+0511,Anna Lee,61,Female,15/03/2022,abc,NIG,anna.lee@email.com,1193,not available,ACTIVE
+0512,John Doe,?,Female,2024/02/28,abc,USA,john.doe@email.com,NaN,29/03/2022,ACTIVE
+0513,Bob Gray,,Female,2022-13-01,75353 USD,South Korea,bob.gray@email.com,2684,08/06/2023,Active
+0514,N/A,?,M,03/11/2023,abc,NIG,emily.davis@mail.com,,2022/08/18,active
+0515,Mike Brown,25,Male,12/09/2023,NaN,Nigeria,mike.brown@mail.com,NaN,2022-10-21,active
+0516,Eve Black,34,Female,2024/03/07,39684 NGN,Canada,eve.black@mail.com,400.46,15/01/2024,Active
+0517,Robert Brown,NaN,M,May 22 2023,75444 NGN,Nigeria,robert.brown@email.com,-84,2022-13-01,Actve
+0518,Emily Davis,thirty,male,2024-03-06,45413 USD,USA,emily.davis@email.com,6937,2022-05-17,active
+0519,Susan Green,NaN,F,28/05/2022,$43810,USA,susan.green@mail.com,-90,2023/12/14,Active
+0520,Sarah Connor,thirty,Female,2022/01/31,39258,UK,sarah.connor@email.com,,May 24 2022,ACTIVE
+0521,Robert Brown,NaN,Male,2022-06-09,$69595,South Korea,robert.brown@email.com,8443,22/09/2022,ACTIVE
+0522,Anna Lee,,Female,Jan 31 2024,70569,UK,anna.lee@email,-96,Oct 31 2023,Inactive
+0523,Jane Smith,?,M,2022-04-22,NaN,Nigeria,jane.smith@email.com,127.37,not available,Actve
+0524,John Doe,thirty,Female,16/10/2023,47640,USA,john.doe@mail.com,493.38,2022/11/13,active
+0525,Tom Hardy,200,M,2022/05/13,abc,South Korea,tom.hardy@email.com,256.07,2022-13-01,Active
+0526,Linda White,61,female,06/04/2022,abc,United States,linda.white@mail.com,9459,Feb 27 2024,Inactive
+0527,Robert Brown,57,female,03/03/2024,NaN,US,robert.brown@email.com,287.78,2022-13-01,Active
+0528,Eve Black,NaN,Female,2022-13-01,53811 USD,US,eve.black@email.com,NaN,20/09/2022,Active
+0529,N/A,,male,Nov 28 2023,NaN,Nigeria,eve.black@email,-53,2022-13-01,Active
+0530,Emily Davis,?,Male,25/10/2022,67364 NGN,US,emily.davis@email.com,NaN,2023-10-20,Active
+0531,Anna Lee,?,F,2022/12/03,NaN,Canada,anna.lee@email.com,NaN,Jul 13 2023,Inactive
+0532,David Kim,20,M,Mar 19 2024,43986,UK,david.kim@email.com,NaN,30/06/2022,Active
+0533,Michael Johnson,,male,08/08/2022,84430,US,michael.johnson@email,,Mar 06 2023,Actve
+0534,Anna Lee,190,male,2022-13-01,NaN,UK,anna.lee@email.com,NaN,2024-04-23,Inactive
+0535,Bob Gray,49,female,2022-13-01,77335,Canada,bob.gray@email.com,320.8,2022-13-01,Inactive
+0536,Tom Hardy,148,male,2022/01/15,31061 USD,United Kingdom,tom.hardy@mail.com,-16,2022-13-01,ACTIVE
+0537,Sam Wilson,?,F,15/03/2023,NaN,United States,sam.wilson@mail.com,NaN,2024-05-27,Active
+0538,Mike Brown,57,F,Feb 07 2024,NaN,USA,mike.brown@mail.com,,2023-07-19,Inactive
+0539,Eve Black,,female,2023-12-22,$54552,South Korea,eve.black@email,NaN,25/03/2024,Active
+0540,N/A,NaN,male,2024/04/19,NaN,NIG,alice.blue@email.com,4156,2022-13-01,ACTIVE
+0541,Chris O'Neil,,M,Jun 14 2023,45136,United States,chris.oneil@mail.com,NaN,12/06/2022,Active
+0542,N/A,18,male,2022-13-01,55061,United States,mike.brown@email,,16/08/2022,Actve
+0543,Emily Davis,NaN,female,2022-02-22,abc,USA,emily.davis@mail.com,-14,06/05/2022,active
+0544,Michael Johnson,,M,May 08 2024,36597 NGN,USA,michael.johnson@email,,Jan 20 2023,Inactive
+0545,Anna Lee,245,male,2024-05-25,52466 USD,Canada,anna.lee@mail.com,3595,2022-13-01,Active
+0546,N/A,?,M,2022-04-28,$51465,UK,kate.moss@email.com,NaN,2022-13-01,active
+0547,Bob Gray,thirty,F,17/07/2022,abc,United Kingdom,bob.gray@email,,Jan 10 2024,ACTIVE
+0548,Alice Blue,thirty,Male,Sep 14 2023,NaN,Nigeria,alice.blue@email,,2022-13-01,ACTIVE
+0549,Linda White,NaN,F,31/01/2022,83021 USD,NIG,linda.white@email.com,NaN,2024-03-09,Active
+0550,Robert Brown,?,F,05/08/2023,66807,NIG,robert.brown@email,304.88,2022-13-01,ACTIVE
+0551,Alice Blue,?,Male,Apr 01 2024,33066 USD,NIG,alice.blue@email.com,6355,2023/08/14,Active
+0552,John Doe,,Male,2023/07/01,72256,US,john.doe@email,NaN,2022-12-21,Actve
+0553,Robert Brown,NaN,female,2023-04-11,85251 USD,US,robert.brown@email.com,119.77,01/06/2024,Inactive
+0554,Mike Brown,thirty,Male,2023/12/06,87889,US,mike.brown@email.com,NaN,2024/03/21,Inactive
+0555,Chris O'Neil,NaN,Female,Feb 11 2024,73793,South Korea,chris.oneil@mail.com,NaN,19/01/2024,Active
+0556,Michael Johnson,NaN,male,05/05/2024,75545,US,michael.johnson@email,-2,2022-07-12,active
+0557,David Kim,thirty,M,Feb 18 2024,$72945,South Korea,david.kim@email.com,-29,Jun 07 2024,Inactive
+0558,Mike Brown,thirty,female,Apr 15 2022,87422,US,mike.brown@email.com,NaN,not available,Actve
+0559,Bob Gray,25,M,18/03/2023,NaN,NIG,bob.gray@mail.com,NaN,not available,ACTIVE
+0560,Alice Blue,?,male,2022-13-01,58414,USA,alice.blue@mail.com,131.98,not available,Active
+0561,Michael Johnson,NaN,Female,Sep 28 2023,55748,UK,michael.johnson@mail.com,-89,2024/03/15,active
+0562,Linda White,thirty,female,2023/09/30,abc,UK,linda.white@email.com,,2023-04-12,ACTIVE
+0563,Alice Blue,29,Female,2022-13-01,53078 NGN,USA,alice.blue@email,437.88,04/08/2023,Actve
+0564,Sam Wilson,27,M,Apr 03 2024,abc,Nigeria,sam.wilson@mail.com,NaN,2024/04/27,active
+0565,Sam Wilson,56,M,04/12/2023,$56890,United States,sam.wilson@email,NaN,Apr 02 2022,Active
+0566,Michael Johnson,,male,2022/06/29,88195 USD,NIG,michael.johnson@mail.com,,not available,Actve
+0567,Robert Brown,,male,2024/03/22,37221,Canada,robert.brown@mail.com,3461,2023/10/01,ACTIVE
+0568,Linda White,,Male,2022-13-01,38089,Canada,linda.white@email,12.49,2022-13-01,Actve
+0569,Chris O'Neil,?,female,2022-13-01,35289 USD,UK,chris.oneil@email.com,-46,2022/04/11,Actve
+0570,Linda White,thirty,Female,2023/12/01,38892 NGN,South Korea,linda.white@email.com,5871,Apr 18 2023,ACTIVE
+0571,Sarah Connor,thirty,female,Dec 31 2023,53212 NGN,Canada,sarah.connor@email,1453,not available,ACTIVE
+0572,Mike Brown,?,male,09/06/2023,NaN,United Kingdom,mike.brown@email.com,-51,2023-04-19,Active
+0573,Jane Smith,NaN,male,2022-13-01,abc,Nigeria,jane.smith@email.com,69.51,2022-13-01,ACTIVE
+0574,Chris O'Neil,NaN,female,Nov 15 2022,abc,UK,chris.oneil@email.com,2983,not available,Inactive
+0575,Sarah Connor,,Male,May 05 2022,$61701,UK,sarah.connor@mail.com,8194,30/05/2022,Inactive
+0576,Emily Davis,?,F,2023/05/07,73747,Canada,emily.davis@email,337.17,13/04/2024,Active
+0577,Linda White,54,male,2022-13-01,59129,Nigeria,linda.white@email.com,NaN,not available,Inactive
+0578,Susan Green,NaN,female,2022-13-01,$34113,United States,susan.green@email,-73,2024/03/16,active
+0579,Tom Hardy,,F,2022-13-01,NaN,South Korea,tom.hardy@email,6703,2023-02-18,Active
+0580,Anna Lee,,female,03/05/2023,abc,UK,anna.lee@email.com,-23,2022-03-05,Active
+0581,Mike Brown,?,M,Apr 21 2022,abc,South Korea,mike.brown@email.com,NaN,Jan 30 2024,Actve
+0582,David Kim,?,Male,2024-04-09,53564 NGN,South Korea,david.kim@email.com,-88,2022-13-01,active
+0583,Susan Green,53,F,2023-03-14,67299,United States,susan.green@mail.com,,not available,Actve
+0584,N/A,NaN,F,2023-12-22,$87176,United Kingdom,robert.brown@email.com,9482,2022-13-01,Active
+0585,Eve Black,34,M,08/03/2023,51924,United States,eve.black@email.com,278.07,2022/03/16,Active
+0586,Alice Blue,thirty,F,2022-05-13,36819,Canada,alice.blue@mail.com,-45,2024-05-20,Active
+0587,John Doe,thirty,male,2024-05-30,66208 NGN,USA,john.doe@email,-90,2023-07-17,ACTIVE
+0588,Sarah Connor,?,M,24/03/2023,45206,USA,sarah.connor@email.com,9785,not available,Active
+0589,Emily Davis,?,F,2022-07-04,50586 USD,UK,emily.davis@email,73.56,2022-13-01,Inactive
+0590,Eve Black,?,F,2024/01/01,NaN,United Kingdom,eve.black@mail.com,6224,Feb 25 2022,Actve
+0591,Eve Black,thirty,Female,2022-11-09,abc,United States,eve.black@email.com,-90,2022-01-22,active
+0592,Michael Johnson,37,M,May 25 2024,31235 NGN,NIG,michael.johnson@email,,2023/06/30,Active
+0593,Kate Moss,NaN,male,2022/08/10,NaN,NIG,kate.moss@email,393.48,2022-13-01,ACTIVE
+0594,Alice Blue,NaN,Female,26/01/2023,38642,United Kingdom,alice.blue@mail.com,5094,2023-08-08,Actve
+0595,Michael Johnson,164,male,2022/01/13,abc,Nigeria,michael.johnson@email,425.32,2023/04/23,ACTIVE
+0596,Kate Moss,21,M,2023-09-17,$58864,United Kingdom,kate.moss@email,,31/05/2022,Active
+0597,Jane Smith,thirty,M,2022-02-12,76828 USD,United Kingdom,jane.smith@email.com,342.41,2022-12-25,Actve
+0598,Bob Gray,?,M,Aug 08 2023,abc,NIG,bob.gray@email,NaN,Oct 30 2023,active
+0599,John Doe,?,male,2022-13-01,43859 USD,South Korea,john.doe@mail.com,,20/08/2023,ACTIVE
+0600,Mike Brown,thirty,male,2022-13-01,78040,South Korea,mike.brown@email.com,9592,2022-13-01,active
+0601,Emily Davis,?,F,19/11/2022,abc,NIG,emily.davis@email,49.05,2022-13-01,Inactive
+0602,Bob Gray,?,male,2022-13-01,$73640,United Kingdom,bob.gray@email,-16,01/06/2022,Inactive
+0603,N/A,NaN,male,2023-12-30,38283,NIG,bob.gray@email.com,3168,2023/02/02,Inactive
+0604,Tom Hardy,33,M,2022-13-01,NaN,US,tom.hardy@mail.com,-95,Oct 08 2023,active
+0605,Eve Black,146,male,19/04/2024,88693,Nigeria,eve.black@mail.com,-49,2024-01-10,Inactive
+0606,Linda White,thirty,male,2023/08/17,51155 NGN,Nigeria,linda.white@email.com,-6,2023-08-12,active
+0607,Linda White,,F,2022/08/18,NaN,US,linda.white@email.com,,2023-06-05,Actve
+0608,Jane Smith,?,Male,2023/05/16,43313 USD,NIG,jane.smith@mail.com,NaN,Jan 04 2024,ACTIVE
+0609,Eve Black,171,female,2022-04-30,$78776,US,eve.black@email,-43,2023/06/10,Active
+0610,Alice Blue,NaN,Female,2024-05-11,$46116,NIG,alice.blue@email.com,,2022/07/11,Inactive
+0611,David Kim,232,female,Aug 08 2022,34408 NGN,South Korea,david.kim@mail.com,-23,2022-13-01,Inactive
+0612,Susan Green,NaN,Female,Jun 15 2024,abc,NIG,susan.green@mail.com,184.99,Feb 13 2024,ACTIVE
+0613,Robert Brown,?,F,2022/11/23,75676 NGN,United States,robert.brown@email,,not available,active
+0614,Sam Wilson,68,male,2024/03/01,74236 USD,NIG,sam.wilson@email,NaN,02/10/2022,active
+0615,Jane Smith,thirty,Female,2023-07-03,NaN,Nigeria,jane.smith@email.com,-3,not available,active
+0616,Susan Green,116,Male,2023/06/16,$65092,United States,susan.green@mail.com,NaN,Jan 18 2023,Inactive
+0617,Kate Moss,18,male,Apr 15 2022,$32771,United Kingdom,kate.moss@email,21.88,May 07 2022,Inactive
+0618,Michael Johnson,thirty,female,2023-12-22,abc,South Korea,michael.johnson@mail.com,,2024/05/29,ACTIVE
+0619,Sam Wilson,,Female,2022-13-01,60893 NGN,United Kingdom,sam.wilson@email,-53,Dec 21 2023,Active
+0620,Eve Black,239,Male,2022-13-01,31631 NGN,UK,eve.black@email,NaN,2024-04-09,Actve
+0621,Anna Lee,49,Female,2022-13-01,NaN,UK,anna.lee@email.com,NaN,2024-05-04,active
+0622,Alice Blue,thirty,F,2023/07/13,$72730,Nigeria,alice.blue@email,357.35,21/03/2022,Active
+0623,Anna Lee,?,F,2024-06-09,88032 NGN,Canada,anna.lee@email.com,,Jul 15 2023,Active
+0624,Linda White,thirty,M,2022-13-01,$72612,United States,linda.white@email,7082,29/04/2023,active
+0625,Chris O'Neil,63,M,03/03/2023,60834,USA,chris.oneil@email,2537,2022-13-01,ACTIVE
+0626,Anna Lee,?,M,06/10/2023,47994 USD,NIG,anna.lee@mail.com,NaN,2023-10-19,Actve
+0627,Chris O'Neil,?,M,01/08/2023,NaN,NIG,chris.oneil@email,5542,30/04/2023,Active
+0628,Emily Davis,?,Female,2023/05/02,35097,United States,emily.davis@mail.com,NaN,18/02/2024,Actve
+0629,Tom Hardy,NaN,M,2022-13-01,NaN,UK,tom.hardy@email.com,-36,2023-05-17,Actve
+0630,Alice Blue,NaN,F,Feb 29 2024,NaN,South Korea,alice.blue@email.com,,2023-06-23,Actve
+0631,Linda White,thirty,Male,2023-09-14,72416 USD,Canada,linda.white@email,NaN,Aug 09 2023,Actve
+0632,Bob Gray,48,Male,2022-13-01,abc,United States,bob.gray@mail.com,-17,May 03 2022,Active
+0633,Robert Brown,?,female,2023/09/21,abc,Nigeria,robert.brown@mail.com,7000,not available,ACTIVE
+0634,Alice Blue,60,Female,2024/04/24,$35502,Canada,alice.blue@email.com,-26,2024/02/04,active
+0635,Kate Moss,thirty,female,2022-03-30,37619,United States,kate.moss@mail.com,,Aug 11 2022,Active
+0636,Emily Davis,148,female,2022-05-16,abc,United Kingdom,emily.davis@email.com,-73,12/07/2022,Inactive
+0637,Linda White,46,F,2022/12/30,abc,South Korea,linda.white@email,416.46,23/08/2023,Actve
+0638,David Kim,188,female,26/03/2024,abc,South Korea,david.kim@mail.com,2486,Sep 22 2022,active
+0639,Jane Smith,,Female,2023/04/24,66947 NGN,USA,jane.smith@email,353.63,2023/05/02,Active
+0640,Anna Lee,,male,Jul 10 2022,NaN,Canada,anna.lee@mail.com,-56,2022-13-01,active
+0641,Eve Black,?,male,Apr 21 2022,80729 USD,NIG,eve.black@mail.com,NaN,2022-13-01,Inactive
+0642,Chris O'Neil,68,M,2024/03/22,60062 NGN,United States,chris.oneil@email,,24/03/2022,Inactive
+0643,Alice Blue,139,male,2024-05-15,$61283,Nigeria,alice.blue@email.com,,Nov 16 2023,Inactive
+0644,Sarah Connor,,M,2022-13-01,NaN,US,sarah.connor@email,,2022/07/02,active
+0645,Robert Brown,18,female,Aug 24 2022,42318,UK,robert.brown@email,,Oct 19 2022,ACTIVE
+0646,Jane Smith,?,F,Nov 30 2023,82837,Nigeria,jane.smith@mail.com,369.01,May 12 2022,Active
+0647,Eve Black,,Male,2022/11/07,abc,US,eve.black@mail.com,NaN,2022-13-01,active
+0648,Sarah Connor,,female,2022-03-23,abc,United Kingdom,sarah.connor@email.com,-79,not available,active
+0649,Jane Smith,NaN,Male,2023/09/06,57898 USD,United Kingdom,jane.smith@email.com,NaN,2023/04/03,Active
+0650,Sarah Connor,236,F,2022-09-12,65060,United States,sarah.connor@mail.com,NaN,2022-13-01,Actve
+0651,N/A,38,Female,Sep 16 2023,abc,US,bob.gray@email,-96,2022-07-08,ACTIVE
+0652,Sarah Connor,NaN,male,2023-06-11,NaN,Canada,sarah.connor@email.com,,2022-13-01,ACTIVE
+0653,Anna Lee,,Female,20/01/2022,48007 USD,Canada,anna.lee@mail.com,397.23,19/01/2022,Active
+0654,Linda White,thirty,F,2022-13-01,55496 NGN,South Korea,linda.white@email.com,-41,24/05/2024,Actve
+0655,Anna Lee,34,female,May 22 2024,66787 USD,US,anna.lee@email.com,NaN,Nov 19 2022,Active
+0656,Chris O'Neil,thirty,F,2023/03/02,abc,Canada,chris.oneil@email.com,-69,2024-05-20,ACTIVE
+0657,David Kim,NaN,Female,Jun 04 2024,66049 NGN,Nigeria,david.kim@email.com,NaN,2023/10/08,Actve
+0658,Kate Moss,,F,21/10/2022,$87235,NIG,kate.moss@email,,2022-13-01,ACTIVE
+0659,Alice Blue,thirty,Female,2022-13-01,abc,NIG,alice.blue@email.com,3727,2023/12/02,Active
+0660,Tom Hardy,,M,11/01/2024,abc,UK,tom.hardy@email,,2022-13-01,ACTIVE
+0661,Emily Davis,228,Male,02/04/2024,46047 NGN,US,emily.davis@email.com,7657,2024-06-01,ACTIVE
+0662,Michael Johnson,130,male,Oct 25 2023,abc,USA,michael.johnson@email,NaN,Jun 08 2023,Active
+0663,Sarah Connor,34,female,Jun 23 2022,73026 USD,United States,sarah.connor@email.com,399.82,Dec 12 2023,ACTIVE
+0664,Emily Davis,175,F,2022/12/05,67239 USD,USA,emily.davis@email.com,,2023/08/01,active
+0665,Anna Lee,221,F,21/11/2023,abc,United States,anna.lee@email.com,,not available,Inactive
+0666,Linda White,NaN,female,Jun 05 2023,$70531,Nigeria,linda.white@mail.com,6149,05/06/2024,Actve
+0667,Eve Black,103,Male,2022/12/17,$43528,United States,eve.black@email,,2022-13-01,Inactive
+0668,David Kim,202,Male,2022/12/04,NaN,South Korea,david.kim@email.com,8317,08/09/2022,Inactive
+0669,Emily Davis,47,male,2022-09-30,$78700,US,emily.davis@email.com,,Feb 19 2024,Active
+0670,Kate Moss,181,Male,2022-07-21,58960,Canada,kate.moss@email.com,4522,2022-13-01,ACTIVE
+0671,Sarah Connor,thirty,female,2023-09-22,46498 NGN,United Kingdom,sarah.connor@email,-43,2023/10/23,Actve
+0672,Emily Davis,thirty,M,2023-10-03,$79585,Canada,emily.davis@email.com,-66,2022/03/09,Active
+0673,Bob Gray,?,Female,08/03/2024,43973 USD,South Korea,bob.gray@email,166.81,2022-13-01,Inactive
+0674,Robert Brown,?,Female,2023/09/17,63847 NGN,NIG,robert.brown@mail.com,NaN,2022/11/10,active
+0675,Bob Gray,,Male,2024-02-20,56790 USD,United States,bob.gray@email,,2022/09/20,Active
+0676,Robert Brown,thirty,male,27/01/2024,NaN,Canada,robert.brown@email,NaN,2024-01-09,ACTIVE
+0677,Eve Black,,Male,2022/04/14,NaN,Nigeria,eve.black@email,,Mar 17 2022,Inactive
+0678,Chris O'Neil,thirty,Male,2023/03/25,NaN,United Kingdom,chris.oneil@mail.com,,2022/03/11,ACTIVE
+0679,David Kim,,M,2022/12/08,NaN,USA,david.kim@email.com,-53,2022-13-01,Active
+0680,Sam Wilson,54,male,2022-13-01,62244 USD,Nigeria,sam.wilson@mail.com,2509,2022-13-01,Active
+0681,Bob Gray,118,F,Apr 17 2024,abc,United States,bob.gray@mail.com,-24,2023-12-11,ACTIVE
+0682,N/A,42,Female,27/11/2022,$46964,Nigeria,linda.white@mail.com,4282,03/01/2024,Inactive
+0683,David Kim,thirty,male,14/05/2024,65394 USD,US,david.kim@email,,11/03/2023,Inactive
+0684,N/A,,Male,Mar 31 2023,33225 NGN,Canada,susan.green@email,7234,2022-13-01,Actve
+0685,Sam Wilson,66,F,2024/01/29,$57205,UK,sam.wilson@email.com,NaN,2023-04-13,ACTIVE
+0686,Alice Blue,NaN,M,May 06 2024,abc,United Kingdom,alice.blue@email.com,-11,not available,active
+0687,N/A,thirty,Male,12/05/2022,75552 NGN,USA,robert.brown@email.com,NaN,Apr 23 2024,Inactive
+0688,Anna Lee,NaN,Male,2024-03-16,$62607,United Kingdom,anna.lee@email,316.4,Dec 06 2022,Active
+0689,Chris O'Neil,,male,10/01/2024,36561,Nigeria,chris.oneil@email.com,-9,02/03/2023,Actve
+0690,John Doe,?,M,2022-13-01,abc,US,john.doe@email,,13/05/2022,Active
+0691,Sarah Connor,?,Female,2022/09/14,abc,Canada,sarah.connor@mail.com,,2022-13-01,Active
+0692,Tom Hardy,?,Male,27/05/2022,40609 NGN,Nigeria,tom.hardy@email.com,,Apr 16 2024,Inactive
+0693,Bob Gray,52,female,2022/10/14,$88492,United Kingdom,bob.gray@email,-63,2022-13-01,active
+0694,Mike Brown,thirty,Female,Apr 07 2022,84399,US,mike.brown@mail.com,NaN,2022-13-01,Inactive
+0695,Tom Hardy,?,female,16/08/2022,abc,Nigeria,tom.hardy@mail.com,9692,not available,Actve
+0696,Susan Green,?,M,12/06/2022,abc,UK,susan.green@mail.com,,Feb 15 2023,Actve
+0697,Alice Blue,?,female,2022-11-04,abc,South Korea,alice.blue@mail.com,162.69,May 24 2022,Inactive
+0698,Emily Davis,,male,2022/07/18,$34622,United Kingdom,emily.davis@email.com,,2023/11/20,Active
+0699,Sarah Connor,126,male,Apr 28 2023,49583,South Korea,sarah.connor@mail.com,NaN,2022/02/11,Active
+0700,Bob Gray,NaN,Female,2023-06-20,NaN,Nigeria,bob.gray@email.com,-86,2023/10/16,active
+0701,Michael Johnson,207,M,2023-01-01,abc,Canada,michael.johnson@email.com,NaN,2022-13-01,Actve
+0702,Tom Hardy,60,male,2022-13-01,36220,UK,tom.hardy@email,-91,Feb 10 2022,ACTIVE
+0703,N/A,210,Male,2022-08-10,71321 USD,US,sam.wilson@email,NaN,2023/12/01,Inactive
+0704,Michael Johnson,,female,13/10/2023,NaN,South Korea,michael.johnson@mail.com,,2024/05/27,active
+0705,Kate Moss,NaN,Male,Jan 10 2024,NaN,Canada,kate.moss@mail.com,NaN,2023/05/13,ACTIVE
+0706,Susan Green,28,Male,2022-13-01,abc,South Korea,susan.green@email,-69,2022-03-19,Active
+0707,Tom Hardy,thirty,M,Feb 11 2023,abc,United Kingdom,tom.hardy@mail.com,,2022-13-01,Inactive
+0708,N/A,?,Female,27/03/2023,30813 USD,UK,michael.johnson@email.com,-62,Aug 05 2023,Inactive
+0709,Sam Wilson,,female,2022/09/25,58266 USD,Nigeria,sam.wilson@email.com,,2022-13-01,Actve
+0710,Chris O'Neil,229,F,2023-07-03,NaN,UK,chris.oneil@mail.com,-90,May 06 2024,Actve
+0711,Bob Gray,?,Male,2022-13-01,72616,Nigeria,bob.gray@email,NaN,not available,active
+0712,Michael Johnson,107,male,18/05/2023,$55968,Canada,michael.johnson@email,NaN,28/03/2024,Actve
+0713,Robert Brown,113,M,2023-08-25,70229,South Korea,robert.brown@email,,03/03/2024,Active
+0714,Eve Black,39,F,Aug 11 2023,abc,Canada,eve.black@email.com,NaN,2023/12/26,ACTIVE
+0715,Mike Brown,?,M,2023/10/25,59604,South Korea,mike.brown@email,1997,not available,active
+0716,Sarah Connor,51,M,2023-01-29,NaN,Nigeria,sarah.connor@email.com,,20/12/2022,Actve
+0717,Susan Green,thirty,Female,2024-04-13,70768,South Korea,susan.green@email.com,405.53,2022-07-04,ACTIVE
+0718,David Kim,,female,Jul 16 2023,abc,South Korea,david.kim@email.com,,May 18 2023,Active
+0719,Susan Green,thirty,Male,2022-13-01,NaN,South Korea,susan.green@mail.com,NaN,2023/04/04,ACTIVE
+0720,Tom Hardy,23,F,2022-13-01,NaN,NIG,tom.hardy@email,253.83,2022-02-12,active
+0721,Kate Moss,thirty,Male,Feb 18 2022,42336 USD,South Korea,kate.moss@email.com,8107,2022-07-02,Inactive
+0722,Sarah Connor,156,M,Mar 16 2022,NaN,USA,sarah.connor@email.com,NaN,not available,Inactive
+0723,Robert Brown,NaN,F,15/02/2022,$69239,United Kingdom,robert.brown@email,,Nov 01 2023,Active
+0724,Alice Blue,?,F,Sep 17 2022,abc,Canada,alice.blue@email.com,334.85,2024-03-21,Inactive
+0725,Kate Moss,165,female,2023/12/13,65144 USD,United Kingdom,kate.moss@mail.com,-98,2022-13-01,ACTIVE
+0726,David Kim,,Male,2022-04-25,84597 NGN,United States,david.kim@email.com,-9,Mar 25 2023,Actve
+0727,Jane Smith,?,female,2022-13-01,$30931,Nigeria,jane.smith@email,,Feb 27 2022,Inactive
+0728,Linda White,147,Female,2022-12-10,87103 NGN,US,linda.white@email.com,,2022-11-22,Active
+0729,Alice Blue,143,M,15/01/2023,89081,UK,alice.blue@email.com,-73,2022-05-03,Actve
+0730,Kate Moss,thirty,female,2022-13-01,55347 NGN,UK,kate.moss@mail.com,-33,2022-13-01,active
+0731,Emily Davis,,M,2022-06-14,58294 USD,United States,emily.davis@email.com,,09/05/2022,ACTIVE
+0732,Alice Blue,,F,2023/04/20,abc,NIG,alice.blue@email.com,,2022-13-01,active
+0733,Bob Gray,NaN,female,Nov 11 2022,39262 NGN,US,bob.gray@mail.com,329.6,Dec 12 2022,Actve
+0734,Alice Blue,106,Female,2023/01/31,abc,United States,alice.blue@mail.com,-26,Sep 09 2022,active
+0735,Sam Wilson,20,Male,2022-01-22,51725,Nigeria,sam.wilson@email,NaN,2022-13-01,ACTIVE
+0736,Eve Black,NaN,Male,01/04/2024,40699 NGN,US,eve.black@mail.com,3593,26/04/2023,Active
+0737,Chris O'Neil,?,F,Apr 30 2023,41171,Nigeria,chris.oneil@email,296.6,2023/11/19,Active
+0738,Susan Green,176,F,03/06/2022,71564 USD,United Kingdom,susan.green@mail.com,6811,2022-13-01,Actve
+0739,Alice Blue,?,male,Oct 14 2022,$50877,USA,alice.blue@mail.com,-40,2022/12/12,ACTIVE
+0740,Mike Brown,thirty,Male,2024/01/23,$54947,Canada,mike.brown@email,-89,Apr 02 2024,active
+0741,Chris O'Neil,thirty,Female,2023/05/16,35459 NGN,US,chris.oneil@mail.com,457.54,05/04/2024,Active
+0742,Anna Lee,?,Male,2024-06-03,77389,Nigeria,anna.lee@mail.com,NaN,2022-04-19,Inactive
+0743,David Kim,23,female,Apr 04 2022,abc,UK,david.kim@email.com,NaN,17/07/2022,ACTIVE
+0744,Anna Lee,,Female,2023-06-04,$41524,United Kingdom,anna.lee@email.com,440.31,19/03/2022,active
+0745,Emily Davis,thirty,F,03/06/2023,57952 USD,Nigeria,emily.davis@mail.com,NaN,2022-03-08,ACTIVE
+0746,Susan Green,21,female,2024-02-22,abc,US,susan.green@email,2079,May 09 2024,active
+0747,Eve Black,NaN,male,02/02/2024,$68484,USA,eve.black@mail.com,NaN,May 16 2024,ACTIVE
+0748,Bob Gray,,Male,2024/06/13,abc,United States,bob.gray@email,,2022-07-08,Active
+0749,Tom Hardy,?,Male,25/05/2023,NaN,United Kingdom,tom.hardy@email.com,-78,May 22 2024,Active
+0750,Susan Green,182,F,15/09/2023,NaN,Canada,susan.green@email.com,,2022-13-01,Active
+0751,Chris O'Neil,195,Female,2023-01-14,31160 NGN,Nigeria,chris.oneil@email,NaN,2022-13-01,active
+0752,Robert Brown,182,male,23/08/2022,NaN,Canada,robert.brown@email.com,,Mar 25 2022,Actve
+0753,Michael Johnson,NaN,female,2022-05-27,$61047,UK,michael.johnson@mail.com,8906,Oct 07 2022,active
+0754,Kate Moss,thirty,male,2022-05-04,$78201,South Korea,kate.moss@mail.com,148.4,2022/07/29,Active
+0755,John Doe,66,M,Apr 22 2023,71018 NGN,South Korea,john.doe@email.com,300.98,12/04/2023,Actve
+0756,Bob Gray,NaN,Male,2022/05/07,66213 NGN,Nigeria,bob.gray@email.com,7144,not available,ACTIVE
+0757,Robert Brown,108,M,2022-13-01,abc,United States,robert.brown@email,,2022-06-17,active
+0758,Susan Green,44,F,2022-13-01,abc,NIG,susan.green@mail.com,-12,21/02/2024,Inactive
+0759,Jane Smith,53,female,May 13 2024,32778,UK,jane.smith@email.com,NaN,2024-02-14,Actve
+0760,Linda White,thirty,Male,2022-13-01,$32359,UK,linda.white@mail.com,2320,Jun 06 2023,Inactive
+0761,Chris O'Neil,NaN,male,19/01/2023,$84710,United Kingdom,chris.oneil@email,105.93,Apr 08 2023,Actve
+0762,Sam Wilson,31,Male,01/02/2023,NaN,United Kingdom,sam.wilson@mail.com,NaN,2022-13-01,active
+0763,David Kim,?,Female,31/05/2024,abc,NIG,david.kim@mail.com,-51,04/09/2023,Active
+0764,Sarah Connor,19,M,Jan 01 2022,abc,United States,sarah.connor@email.com,-28,2023/01/17,ACTIVE
+0765,John Doe,NaN,Female,27/09/2022,abc,USA,john.doe@email,,2023/08/17,Active
+0766,Eve Black,?,Male,2023-02-12,32435 NGN,NIG,eve.black@email,212.09,2024/06/16,ACTIVE
+0767,David Kim,?,Female,2023-12-08,72610,NIG,david.kim@mail.com,476.55,Apr 01 2022,ACTIVE
+0768,Kate Moss,195,male,2023/07/08,abc,Nigeria,kate.moss@email,-52,25/02/2024,ACTIVE
+0769,Kate Moss,thirty,M,2022/05/21,72301 NGN,Canada,kate.moss@mail.com,NaN,2022-13-01,active
+0770,Kate Moss,thirty,Female,Apr 15 2024,35357 NGN,US,kate.moss@mail.com,2700,not available,Actve
+0771,Anna Lee,,Male,2022-13-01,NaN,NIG,anna.lee@email.com,292.74,22/10/2023,Inactive
+0772,John Doe,,Female,15/03/2022,79532 NGN,United Kingdom,john.doe@email.com,275.56,not available,active
+0773,Sarah Connor,70,M,Apr 09 2023,abc,NIG,sarah.connor@email.com,-39,2022-13-01,Actve
+0774,Eve Black,110,F,2022/02/02,53035,United Kingdom,eve.black@mail.com,242.06,Aug 25 2023,Active
+0775,N/A,,M,2023-07-11,abc,US,tom.hardy@email,4954,2022/02/05,Actve
+0776,Bob Gray,44,female,2022-13-01,59126,South Korea,bob.gray@email.com,7359,2022-13-01,Active
+0777,Sam Wilson,?,Male,Oct 25 2022,abc,United States,sam.wilson@email.com,107.57,Feb 02 2024,Active
+0778,Linda White,,Female,2024-01-01,$36654,United States,linda.white@email.com,-78,2024-03-24,Actve
+0779,Susan Green,,Male,2022-13-01,76009 NGN,US,susan.green@email.com,-86,2022-09-07,Active
+0780,Anna Lee,,female,2022-13-01,47236 NGN,US,anna.lee@mail.com,2898,not available,Inactive
+0781,Chris O'Neil,65,M,2022-03-03,abc,United Kingdom,chris.oneil@mail.com,NaN,31/05/2024,Inactive
+0782,Eve Black,?,F,21/07/2023,$73717,South Korea,eve.black@email.com,8826,16/03/2022,ACTIVE
+0783,Susan Green,,Male,2024-02-10,87060 USD,NIG,susan.green@email.com,-93,06/05/2024,ACTIVE
+0784,Sam Wilson,?,male,Jun 18 2023,80665,NIG,sam.wilson@mail.com,,2022/02/10,ACTIVE
+0785,Michael Johnson,NaN,male,2023/09/12,86058 NGN,South Korea,michael.johnson@email,-89,2023/12/10,Actve
+0786,Sam Wilson,164,M,2022-13-01,$63653,Nigeria,sam.wilson@email,NaN,2022-13-01,ACTIVE
+0787,Michael Johnson,thirty,Female,01/04/2024,abc,Nigeria,michael.johnson@mail.com,-42,2022/06/27,Inactive
+0788,David Kim,?,female,2024/04/09,46097 NGN,Canada,david.kim@mail.com,8521,2022/09/18,Active
+0789,Tom Hardy,43,Female,Apr 11 2024,NaN,United Kingdom,tom.hardy@mail.com,288.05,2022-13-01,Active
+0790,Eve Black,?,Female,2022-05-06,32689,United Kingdom,eve.black@email.com,278.76,05/12/2023,Active
+0791,N/A,NaN,F,04/09/2022,NaN,United Kingdom,jane.smith@mail.com,183.24,21/11/2022,ACTIVE
+0792,David Kim,19,male,Jan 29 2024,38163,UK,david.kim@email,,2022-10-14,Inactive
+0793,Linda White,,Female,2022-08-26,abc,Canada,linda.white@email,83.69,Oct 06 2022,ACTIVE
+0794,Sam Wilson,thirty,male,2022-13-01,43465 USD,United States,sam.wilson@mail.com,,2022/08/01,active
+0795,Tom Hardy,?,F,2023-09-07,NaN,UK,tom.hardy@mail.com,-58,2023-01-04,ACTIVE
+0796,Alice Blue,,M,2022/12/23,54025 USD,Canada,alice.blue@email.com,9473,Jul 20 2022,active
+0797,Jane Smith,23,male,2023/12/14,NaN,United Kingdom,jane.smith@email,NaN,Jul 10 2022,active
+0798,Anna Lee,thirty,Male,2023/08/10,65909 NGN,NIG,anna.lee@email.com,125.76,2022-13-01,Active
+0799,Bob Gray,?,male,2022-07-11,$51330,United Kingdom,bob.gray@mail.com,408.52,Jun 21 2022,Inactive
+0800,Chris O'Neil,thirty,M,Apr 19 2023,abc,US,chris.oneil@mail.com,131.63,2022/05/20,ACTIVE
+0801,Sam Wilson,thirty,male,2022-13-01,abc,South Korea,sam.wilson@email,NaN,2022-13-01,ACTIVE
+0802,Chris O'Neil,thirty,M,2024-05-12,69609 NGN,NIG,chris.oneil@email,-4,Jan 17 2022,Inactive
+0803,Bob Gray,135,M,10/02/2023,$31073,Canada,bob.gray@email,NaN,Apr 20 2023,Active
+0804,Emily Davis,NaN,M,Feb 24 2022,89597 NGN,NIG,emily.davis@email.com,9397,2024-06-08,active
+0805,Robert Brown,50,Male,2022-05-30,NaN,UK,robert.brown@mail.com,-4,2023/09/20,Actve
+0806,Robert Brown,thirty,Male,Mar 25 2023,NaN,USA,robert.brown@mail.com,391.86,2022/06/07,ACTIVE
+0807,Michael Johnson,66,male,Jan 29 2023,44433,USA,michael.johnson@email,-18,Mar 04 2023,Actve
+0808,Michael Johnson,31,Female,2024/05/29,77660 NGN,US,michael.johnson@email.com,239.47,not available,ACTIVE
+0809,Robert Brown,NaN,male,2023/07/26,$64518,South Korea,robert.brown@mail.com,,2023/03/21,active
+0810,Sam Wilson,64,male,2022-11-04,$84006,South Korea,sam.wilson@email.com,-29,Apr 11 2022,ACTIVE
+0811,Alice Blue,?,Female,2023-10-01,80788 USD,USA,alice.blue@email,-56,2022/02/01,Active
+0812,Linda White,thirty,Female,20/02/2023,$48773,United States,linda.white@email,88.0,26/03/2022,Actve
+0813,Alice Blue,23,Male,2023-04-28,38747 USD,Nigeria,alice.blue@mail.com,6853,not available,Inactive
+0814,Linda White,20,Male,22/09/2023,$81743,NIG,linda.white@email,5774,15/03/2022,Active
+0815,Bob Gray,140,female,Jun 12 2023,$69746,United Kingdom,bob.gray@email.com,-44,2023/01/03,ACTIVE
+0816,Alice Blue,179,M,Aug 04 2022,abc,United States,alice.blue@email.com,,05/04/2023,Active
+0817,Linda White,thirty,Female,Jan 06 2024,56861,South Korea,linda.white@mail.com,-91,Jan 08 2023,Inactive
+0818,Susan Green,,Female,Apr 12 2024,73144 NGN,Nigeria,susan.green@email,NaN,2024-02-09,Inactive
+0819,Michael Johnson,?,Male,2022-13-01,69578 NGN,United Kingdom,michael.johnson@email.com,363.18,2022-13-01,active
+0820,N/A,?,Female,2022-13-01,NaN,NIG,robert.brown@mail.com,-79,Jan 19 2024,Actve
+0821,Kate Moss,66,M,Dec 07 2022,abc,US,kate.moss@email,8594,Nov 19 2022,active
+0822,Linda White,158,male,2022/09/18,NaN,UK,linda.white@email.com,-58,not available,Active
+0823,Mike Brown,thirty,F,2022-13-01,73470,Canada,mike.brown@mail.com,114.57,03/02/2023,Actve
+0824,N/A,NaN,female,2022-09-09,$36518,United Kingdom,david.kim@email.com,-86,13/03/2023,active
+0825,Sarah Connor,thirty,female,2023-07-16,40195,USA,sarah.connor@email.com,,2023-04-08,Actve
+0826,Kate Moss,223,male,2022/10/12,81707,Nigeria,kate.moss@email.com,NaN,2023-09-28,Inactive
+0827,Chris O'Neil,?,F,2024-02-15,52294 NGN,NIG,chris.oneil@email.com,,2022-13-01,Active
+0828,Emily Davis,thirty,F,2023/02/01,43049,USA,emily.davis@email,102.16,Jan 17 2023,Active
+0829,Robert Brown,23,male,2022-13-01,38897 NGN,Canada,robert.brown@mail.com,498.11,03/02/2022,active
+0830,Kate Moss,36,Male,2022/11/04,83457 NGN,United States,kate.moss@email,2218,2023/05/26,ACTIVE
+0831,N/A,?,female,2022-13-01,NaN,US,john.doe@email,NaN,2022-13-01,Active
+0832,N/A,thirty,Male,2022-13-01,73116 USD,US,emily.davis@email,-6,not available,active
+0833,Michael Johnson,26,male,Jan 05 2022,32786 NGN,Nigeria,michael.johnson@email,3601,2024-03-24,active
+0834,Anna Lee,126,Male,27/04/2023,abc,South Korea,anna.lee@email.com,NaN,Jan 18 2024,Actve
+0835,Emily Davis,?,male,27/10/2022,NaN,NIG,emily.davis@mail.com,-32,2023-09-12,Active
+0836,Tom Hardy,164,Female,2022-13-01,abc,UK,tom.hardy@email.com,358.42,02/12/2023,Inactive
+0837,Michael Johnson,100,Female,2024-01-05,57089,Nigeria,michael.johnson@email.com,NaN,2022-13-01,active
+0838,Bob Gray,?,F,28/12/2022,62106 NGN,United Kingdom,bob.gray@email,-1,Mar 11 2024,Actve
+0839,Linda White,?,M,Oct 14 2022,80400,Canada,linda.white@mail.com,NaN,2023/04/06,ACTIVE
+0840,Tom Hardy,,Female,Jan 18 2022,$55203,South Korea,tom.hardy@mail.com,NaN,2023-06-19,active
+0841,Sam Wilson,65,Male,04/08/2023,88902 USD,United Kingdom,sam.wilson@email.com,,26/06/2023,Active
+0842,Robert Brown,,male,Dec 16 2022,$42675,US,robert.brown@mail.com,NaN,Oct 06 2022,Actve
+0843,Susan Green,?,M,2022/02/16,$60892,South Korea,susan.green@email,251.64,May 21 2022,Active
+0844,David Kim,52,female,16/07/2023,abc,UK,david.kim@email.com,191.73,2023/02/23,Actve
+0845,Bob Gray,?,male,2022/05/02,NaN,South Korea,bob.gray@mail.com,318.26,2022-10-11,ACTIVE
+0846,David Kim,39,male,2022-13-01,48197,NIG,david.kim@mail.com,8411,2022-13-01,Active
+0847,Michael Johnson,?,female,16/02/2022,$84216,UK,michael.johnson@email.com,,02/02/2022,active
+0848,Linda White,139,Male,May 03 2024,54778,United States,linda.white@email,27.21,not available,Inactive
+0849,David Kim,,Female,2023/12/18,NaN,South Korea,david.kim@mail.com,-76,Sep 01 2023,ACTIVE
+0850,Anna Lee,NaN,M,2022-09-24,42862 NGN,United Kingdom,anna.lee@email,2491,2023-12-13,Inactive
+0851,Kate Moss,,F,2023-10-28,$63944,South Korea,kate.moss@email.com,1831,11/07/2023,Actve
+0852,Kate Moss,51,M,2022-13-01,$38924,USA,kate.moss@email,,2022-13-01,ACTIVE
+0853,Mike Brown,58,female,Feb 18 2024,abc,United Kingdom,mike.brown@email,24.68,2023-12-09,Active
+0854,Robert Brown,65,Male,Dec 06 2023,82780,Canada,robert.brown@mail.com,,2022-11-17,Actve
+0855,Linda White,34,male,2022-13-01,NaN,South Korea,linda.white@email,,2022-13-01,Actve
+0856,Jane Smith,thirty,F,2023-04-24,69269,USA,jane.smith@mail.com,NaN,2022-13-01,active
+0857,Sam Wilson,42,Female,2023/02/27,$63533,Nigeria,sam.wilson@email,,2022-13-01,Active
+0858,Eve Black,,male,2022-13-01,53270,South Korea,eve.black@email.com,71.63,2024/06/05,Actve
+0859,Sarah Connor,NaN,female,21/01/2024,65879 NGN,Canada,sarah.connor@email.com,4075,14/02/2023,Inactive
+0860,Mike Brown,175,Female,Jun 19 2023,$49502,USA,mike.brown@email.com,NaN,15/05/2024,Active
+0861,Linda White,,Male,2024/04/21,71394 NGN,United States,linda.white@email,473.61,2024/03/18,active
+0862,Kate Moss,149,Male,Nov 16 2023,54724 USD,NIG,kate.moss@email,9689,2022-01-24,active
+0863,Emily Davis,?,M,Dec 06 2022,abc,USA,emily.davis@mail.com,347.25,26/10/2022,Inactive
+0864,David Kim,?,male,2022-09-21,abc,UK,david.kim@email.com,2549,2022-13-01,Active
+0865,David Kim,,Female,2022/05/18,44792,NIG,david.kim@email.com,-11,2022-12-02,ACTIVE
+0866,Sam Wilson,241,male,09/01/2022,43677,USA,sam.wilson@mail.com,62.31,07/05/2024,ACTIVE
+0867,Robert Brown,NaN,female,Oct 18 2022,NaN,UK,robert.brown@email,190.27,not available,Actve
+0868,Mike Brown,NaN,Male,07/07/2023,45161 NGN,South Korea,mike.brown@email,-4,14/04/2024,Actve
+0869,Sam Wilson,NaN,M,2022-12-12,36044 USD,USA,sam.wilson@mail.com,,2023/02/22,Active
+0870,Robert Brown,,female,2022-02-17,$78912,NIG,robert.brown@email.com,1907,Jan 05 2023,Actve
+0871,Mike Brown,,Female,2023-12-03,abc,UK,mike.brown@email.com,NaN,Dec 31 2022,Actve
+0872,Kate Moss,,female,May 17 2024,NaN,United States,kate.moss@mail.com,NaN,11/02/2022,active
+0873,N/A,?,M,Nov 02 2022,abc,South Korea,kate.moss@mail.com,447.93,2022-13-01,Active
+0874,Jane Smith,215,female,2022-13-01,NaN,US,jane.smith@email,-24,Aug 20 2023,Actve
+0875,Alice Blue,196,M,2024-04-30,NaN,United Kingdom,alice.blue@email.com,7293,2022/12/05,Active
+0876,Sam Wilson,?,Female,21/04/2022,$49295,NIG,sam.wilson@email,7681,26/07/2023,ACTIVE
+0877,Sarah Connor,107,F,2022/06/28,abc,UK,sarah.connor@mail.com,,2022-13-01,Active
+0878,Linda White,204,Male,2022/05/26,NaN,United States,linda.white@email,,2022-13-01,ACTIVE
+0879,Tom Hardy,?,Male,Jul 30 2023,abc,United States,tom.hardy@email.com,405.54,Jul 16 2022,Actve
+0880,Chris O'Neil,thirty,M,2023-10-04,$84560,Canada,chris.oneil@email.com,-86,2023-02-03,Active
+0881,Tom Hardy,120,Female,2024-04-13,33140,NIG,tom.hardy@mail.com,37.43,2023/09/14,Active
+0882,Bob Gray,?,male,30/03/2023,abc,Nigeria,bob.gray@email.com,-35,Sep 06 2023,Inactive
+0883,Jane Smith,135,F,21/02/2024,$69079,Nigeria,jane.smith@email.com,-12,2022-13-01,Actve
+0884,Mike Brown,,male,2023-11-22,$42797,UK,mike.brown@email,NaN,2022/06/25,ACTIVE
+0885,Sarah Connor,23,Female,2024-05-19,NaN,United States,sarah.connor@email.com,,17/11/2023,ACTIVE
+0886,Eve Black,40,Female,2022-08-12,abc,South Korea,eve.black@email,,27/11/2022,ACTIVE
+0887,Linda White,,M,19/10/2022,$59605,United Kingdom,linda.white@email.com,,2022-13-01,Inactive
+0888,Anna Lee,,male,2023-07-04,$71174,United Kingdom,anna.lee@mail.com,3811,2022-13-01,ACTIVE
+0889,Emily Davis,thirty,Female,2022-13-01,NaN,Nigeria,emily.davis@email,24.29,Dec 21 2023,Active
+0890,Bob Gray,,Female,2023-02-19,53926,NIG,bob.gray@mail.com,,24/12/2022,Active
+0891,Tom Hardy,60,M,2023-07-07,75006 USD,NIG,tom.hardy@mail.com,,not available,Actve
+0892,Chris O'Neil,thirty,Male,25/07/2023,NaN,South Korea,chris.oneil@email,,2022-02-08,Actve
+0893,Emily Davis,210,male,2022-13-01,abc,United States,emily.davis@email,9391,2023/10/25,active
+0894,Bob Gray,50,female,2023-11-02,$53392,UK,bob.gray@mail.com,,2023-11-04,Actve
+0895,Bob Gray,thirty,Male,Jan 07 2024,NaN,Canada,bob.gray@email,8151,15/05/2024,active
+0896,Sam Wilson,109,male,Nov 22 2022,$72175,UK,sam.wilson@email,NaN,2022-13-01,active
+0897,Bob Gray,?,M,2023/07/09,85868 USD,United Kingdom,bob.gray@email,-68,2022/07/20,Actve
+0898,Linda White,134,male,Jan 28 2024,$84415,UK,linda.white@mail.com,NaN,2022/09/24,Inactive
+0899,Kate Moss,?,M,2022-13-01,41262 NGN,UK,kate.moss@mail.com,118.91,2022-13-01,ACTIVE
+0900,Susan Green,thirty,M,2023-01-31,69969 USD,Canada,susan.green@mail.com,150.78,2022-13-01,Actve
+0901,Mike Brown,thirty,F,18/06/2022,abc,Nigeria,mike.brown@mail.com,NaN,2022/11/11,active
+0902,Bob Gray,?,Male,2022/08/10,$70591,NIG,bob.gray@email,,2023-04-04,Active
+0903,Michael Johnson,NaN,Male,06/02/2022,59925 NGN,South Korea,michael.johnson@email.com,8747,not available,Inactive
+0904,N/A,?,male,Jun 24 2023,$40668,Nigeria,eve.black@mail.com,-100,not available,active
+0905,Sam Wilson,thirty,F,14/10/2022,39058 NGN,Nigeria,sam.wilson@mail.com,5581,2024/01/21,active
+0906,Linda White,thirty,Male,2022/03/26,$31664,USA,linda.white@email.com,,2024-06-18,Inactive
+0907,Chris O'Neil,NaN,M,2022-03-12,51232 USD,Canada,chris.oneil@email.com,7974,2023/11/30,active
+0908,Linda White,,male,27/09/2023,abc,UK,linda.white@email,NaN,03/06/2022,active
+0909,Sam Wilson,NaN,M,2022-13-01,$44315,South Korea,sam.wilson@email.com,,2022/05/27,Actve
+0910,Mike Brown,65,male,2022/09/08,$62082,UK,mike.brown@mail.com,1396,2022-13-01,Active
+0911,Bob Gray,,F,2022/11/25,abc,United Kingdom,bob.gray@email,NaN,Apr 03 2022,Actve
+0912,Emily Davis,thirty,Female,2024-01-06,72298 NGN,United States,emily.davis@email.com,-28,2022-13-01,Actve
+0913,Anna Lee,?,Female,Jun 08 2022,$87773,US,anna.lee@mail.com,NaN,18/07/2023,Inactive
+0914,Robert Brown,thirty,male,2022-13-01,50189 USD,NIG,robert.brown@email.com,-83,2024/04/07,Inactive
+0915,John Doe,thirty,F,18/09/2023,88541 NGN,Canada,john.doe@email.com,101.53,2022-13-01,ACTIVE
+0916,Sam Wilson,?,F,26/12/2023,NaN,South Korea,sam.wilson@email.com,,2022-13-01,Inactive
+0917,N/A,thirty,F,2022-13-01,NaN,Canada,anna.lee@email,7098,2022-08-31,Active
+0918,N/A,,female,2022-03-25,60160,Nigeria,david.kim@email.com,477.51,2022-13-01,active
+0919,John Doe,NaN,female,2024-06-07,$70113,USA,john.doe@mail.com,,2022-13-01,Active
+0920,Chris O'Neil,138,Female,29/04/2022,abc,Canada,chris.oneil@email,238.61,2024-02-29,Active
+0921,Tom Hardy,26,Male,Sep 25 2023,abc,Nigeria,tom.hardy@mail.com,,2023-09-30,active
+0922,David Kim,thirty,Male,Nov 08 2023,abc,United Kingdom,david.kim@mail.com,,2022-13-01,ACTIVE
+0923,Sam Wilson,thirty,female,01/12/2022,69080 USD,NIG,sam.wilson@email.com,NaN,2022-12-25,Active
+0924,David Kim,?,female,2023-08-21,80879,UK,david.kim@email,-36,2022-13-01,active
+0925,Tom Hardy,26,M,2022-03-18,39230 NGN,USA,tom.hardy@email,-79,2023-05-22,Inactive
+0926,Jane Smith,,F,Jun 01 2024,$44955,United States,jane.smith@email,NaN,2024-06-03,Inactive
+0927,N/A,21,male,Jan 07 2023,abc,Canada,linda.white@email,NaN,2023/11/25,active
+0928,Alice Blue,,Male,May 21 2022,58454,US,alice.blue@email.com,2941,Aug 01 2022,Actve
+0929,Emily Davis,43,F,2022-13-01,NaN,USA,emily.davis@mail.com,-94,2023-08-30,active
+0930,Jane Smith,30,F,09/04/2023,33531 NGN,UK,jane.smith@email,NaN,2022/10/10,Inactive
+0931,Tom Hardy,63,Male,02/08/2023,NaN,South Korea,tom.hardy@mail.com,8036,2022-01-31,Actve
+0932,John Doe,thirty,F,2022/06/10,84940 NGN,NIG,john.doe@email,6787,not available,Inactive
+0933,Chris O'Neil,48,Male,Sep 30 2022,57889,United Kingdom,chris.oneil@email,317.15,not available,Actve
+0934,Eve Black,25,Male,2022-13-01,NaN,South Korea,eve.black@email.com,5416,not available,Inactive
+0935,Mike Brown,NaN,male,2022-13-01,abc,Canada,mike.brown@email,,2022-13-01,ACTIVE
+0936,Sarah Connor,242,M,Apr 15 2022,$36525,UK,sarah.connor@email,-7,12/09/2022,active
+0937,Alice Blue,231,male,2022-13-01,67254,Canada,alice.blue@email.com,-34,2023-11-08,Inactive
+0938,Bob Gray,?,Male,2022-04-02,$85117,USA,bob.gray@mail.com,403.59,13/07/2023,active
+0939,Sam Wilson,,Female,Apr 25 2022,abc,South Korea,sam.wilson@mail.com,316.72,2022-13-01,ACTIVE
+0940,Michael Johnson,26,F,2022-13-01,NaN,Nigeria,michael.johnson@email,466.93,Sep 23 2022,ACTIVE
+0941,Robert Brown,?,F,2023/07/31,69038 NGN,US,robert.brown@mail.com,-21,28/08/2023,Actve
+0942,Alice Blue,,female,2022-13-01,73927 NGN,USA,alice.blue@email,31.14,2022-13-01,ACTIVE
+0943,Sarah Connor,thirty,female,Sep 12 2022,abc,South Korea,sarah.connor@mail.com,NaN,17/04/2023,active
+0944,Jane Smith,thirty,F,2023/01/28,70095 NGN,USA,jane.smith@email,232.0,2022-06-06,ACTIVE
+0945,Chris O'Neil,?,female,2022-13-01,$65829,USA,chris.oneil@mail.com,NaN,2022-13-01,Active
+0946,Alice Blue,,Female,2022-13-01,67732,NIG,alice.blue@email.com,NaN,not available,Active
+0947,Emily Davis,?,female,22/02/2023,43981 NGN,NIG,emily.davis@email.com,NaN,Jun 08 2023,active
+0948,John Doe,NaN,F,2022-05-29,70388,NIG,john.doe@email,NaN,not available,Actve
+0949,Alice Blue,220,F,2022-13-01,abc,United Kingdom,alice.blue@mail.com,273.74,Jan 17 2024,ACTIVE
+0950,Kate Moss,,M,28/02/2023,85032 USD,United States,kate.moss@email,-34,2022-13-01,ACTIVE
+0951,Kate Moss,thirty,M,2023/12/07,NaN,United Kingdom,kate.moss@email,403.75,2024-01-10,ACTIVE
+0952,Susan Green,NaN,Male,2022-03-14,abc,USA,susan.green@email.com,,12/09/2022,Active
+0953,Sam Wilson,thirty,Male,2023-01-24,33221,United Kingdom,sam.wilson@email.com,,not available,ACTIVE
+0954,Tom Hardy,thirty,F,Mar 18 2023,33276 USD,NIG,tom.hardy@email,-40,2023/05/17,Actve
+0955,John Doe,NaN,Female,Jul 16 2022,$38575,Nigeria,john.doe@email,,2022-12-11,Active
+0956,Tom Hardy,?,Male,10/01/2022,$86070,US,tom.hardy@email.com,-24,2023/05/05,ACTIVE
+0957,Chris O'Neil,,Male,17/04/2022,abc,US,chris.oneil@email.com,5115,2023-10-17,Active
+0958,N/A,thirty,F,2022-13-01,$38378,US,kate.moss@email.com,293.14,07/10/2022,ACTIVE
+0959,Michael Johnson,58,Female,18/01/2024,$33504,South Korea,michael.johnson@email,NaN,2022-13-01,Active
+0960,Bob Gray,NaN,M,2023/06/11,38383,South Korea,bob.gray@mail.com,NaN,2024-02-10,Active
+0961,Alice Blue,NaN,female,24/04/2023,$87007,US,alice.blue@email.com,-25,2022-13-01,Active
+0962,Bob Gray,?,Female,12/11/2023,$62065,USA,bob.gray@email.com,-72,Apr 19 2024,active
+0963,John Doe,thirty,F,2022/09/10,abc,UK,john.doe@email.com,6324,2022-13-01,Inactive
+0964,Robert Brown,37,female,2022-13-01,abc,NIG,robert.brown@email,242.34,2022/12/20,active
+0965,Michael Johnson,NaN,F,2022-13-01,87606 USD,US,michael.johnson@email,8378,20/10/2023,Actve
+0966,Sarah Connor,thirty,female,2022-13-01,NaN,NIG,sarah.connor@mail.com,3539,not available,active
+0967,Eve Black,26,M,09/05/2024,46632 NGN,UK,eve.black@email.com,-94,29/06/2022,Inactive
+0968,Kate Moss,?,male,2022-13-01,81927,United States,kate.moss@email.com,492.81,2022-13-01,Inactive
+0969,Anna Lee,112,male,25/07/2023,39548,USA,anna.lee@email.com,17.3,not available,Actve
+0970,Tom Hardy,42,Male,Jun 05 2023,37975,South Korea,tom.hardy@email.com,-25,23/10/2022,Actve
+0971,Linda White,162,Male,Aug 27 2023,48111 NGN,South Korea,linda.white@mail.com,-41,2023-08-26,Active
+0972,John Doe,,F,2022/07/06,83567 USD,Nigeria,john.doe@mail.com,NaN,not available,Active
+0973,Alice Blue,,M,2022-04-05,abc,NIG,alice.blue@email,,2022-13-01,active
+0974,Sarah Connor,thirty,F,2022/02/12,NaN,UK,sarah.connor@email,5820,02/07/2023,ACTIVE
+0975,Bob Gray,thirty,F,Jul 26 2023,abc,Canada,bob.gray@mail.com,7078,2023-01-07,Actve
+0976,Bob Gray,?,Male,Mar 31 2022,abc,Nigeria,bob.gray@email,9552,Jun 12 2024,Active
+0977,Linda White,thirty,M,May 23 2022,53672 USD,South Korea,linda.white@email,-16,25/12/2023,ACTIVE
+0978,Linda White,29,male,2023/11/21,NaN,NIG,linda.white@email.com,,2022-13-01,Actve
+0979,Mike Brown,167,female,11/01/2023,NaN,Nigeria,mike.brown@mail.com,NaN,2023-06-02,Actve
+0980,Chris O'Neil,41,female,2023-08-12,abc,NIG,chris.oneil@email.com,NaN,16/04/2023,Inactive
+0981,Michael Johnson,thirty,Female,2023/07/28,30331,US,michael.johnson@email,,05/01/2024,Active
+0982,Chris O'Neil,thirty,M,2022-01-07,33861 USD,South Korea,chris.oneil@mail.com,352.03,Jan 02 2022,Active
+0983,Mike Brown,120,Male,01/02/2024,83539 NGN,USA,mike.brown@mail.com,-6,not available,ACTIVE
+0984,Robert Brown,NaN,female,2022-13-01,67617 USD,South Korea,robert.brown@mail.com,,Jun 19 2023,Actve
+0985,Kate Moss,?,male,Sep 21 2022,80199,NIG,kate.moss@mail.com,,2022-13-01,Active
+0986,David Kim,64,M,07/12/2022,NaN,NIG,david.kim@email.com,NaN,Mar 13 2024,active
+0987,Sam Wilson,NaN,Female,Mar 07 2023,86494 USD,South Korea,sam.wilson@email,,2022/08/13,Actve
+0988,Sam Wilson,NaN,Female,Jan 27 2023,$89965,South Korea,sam.wilson@email.com,-7,Dec 23 2023,active
+0989,Bob Gray,NaN,F,2022-13-01,abc,USA,bob.gray@mail.com,26.67,not available,active
+0990,John Doe,?,Male,Mar 27 2022,NaN,NIG,john.doe@email.com,,Oct 30 2022,Active
+0991,Anna Lee,203,male,2023/01/15,83580 USD,US,anna.lee@mail.com,,2022-11-18,Active
+0992,Anna Lee,66,M,24/04/2022,abc,United States,anna.lee@email,-84,2023-09-25,ACTIVE
+0993,N/A,,female,Jul 15 2022,NaN,USA,linda.white@email,357.07,2023-11-14,Active
+0994,Tom Hardy,NaN,female,2022-13-01,37767,United Kingdom,tom.hardy@email,-5,not available,Actve
+0995,Linda White,176,male,2022/04/07,NaN,United States,linda.white@mail.com,NaN,2022-12-15,active
+0996,Tom Hardy,,male,2023-08-15,NaN,NIG,tom.hardy@mail.com,-70,Feb 15 2022,Actve
+0997,Michael Johnson,155,Female,2023/08/07,abc,Nigeria,michael.johnson@email.com,-51,2024/05/18,active
+0998,John Doe,58,Male,May 21 2023,50519 USD,United States,john.doe@email,8526,20/08/2023,Actve
+0999,Chris O'Neil,NaN,Male,2022-03-13,67441,NIG,chris.oneil@mail.com,1092,28/02/2023,Active
+1000,Chris O'Neil,,F,31/03/2023,70387,United Kingdom,chris.oneil@mail.com,6473,2023/07/11,Actve
