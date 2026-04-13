@@ -14,20 +14,13 @@ model to predict whether a driver will pit on the next lap.
 LapTime (s), Race, Year, LapTime_Delta, Cumulative_Degradation, PitStop, 
 PitNextLap, RaceProgress, Normalized_TyreLife, Position_Change
 
-## Key EDA Findings
-- Mean lap time across all races is 91.63 seconds, with a fastest lap of 67.01 seconds
-- The lap time distribution shows two distinct peaks suggesting races with 
-significantly different lap time profiles
-- Hard tyres account for ~50% of all laps, followed by Medium (~35%) and Soft (~10%)
-- Wet and Intermediate compounds appear rarely across the two seasons
-- Soft, Medium and Hard compounds show surprisingly similar average lap times — 
-all within a 2 second range — suggesting race characteristics have a stronger 
-influence on lap time than compound type alone
-- All dry compounds show fastest lap times after an initial warm-up period of 
-roughly 5 laps, after which performance stabilises
-- The Austrian Grand Prix recorded the most pit stops (~800), while Monaco 
-recorded the fewest (~110)
-- Pre-Season Testing appears in the dataset alongside race events
+## Key Findings
+- Lap time variation (LapTime_Delta) is the strongest predictor of an 
+upcoming pit stop, more so than tyre age alone
+- Hard tyres account for roughly 50% of all laps across both seasons
+- The Austrian Grand Prix recorded the most pit stops while Monaco 
+recorded the fewest
+- Full EDA findings and visualisations are documented in the notebook
 
 ## Machine Learning — Pit Stop Prediction
 
@@ -65,13 +58,10 @@ was the least important feature (0.041).
 - Jupyter Notebook (VS Code)
 
 ## Key Learnings
-- Real datasets with genuine patterns allow machine learning models to identify 
-meaningful signals — the 95% accuracy reflects genuine learnable patterns 
-in pit stop behaviour across the 2023 and 2024 seasons
-- LapTime_Delta is a stronger predictor of pit stops than tyre age alone
+- Real datasets with genuine patterns allow machine learning models to 
+identify meaningful signals — the 95% accuracy reflects genuine learnable 
+patterns in pit stop behaviour
 - Feature importance analysis reveals what the model actually learned, 
 not just how accurate it is
 - Outlier detection is necessary even on clean datasets — 16 extreme laps 
 above 200 seconds were identified and filtered before analysis
-- The distinction between data findings and domain knowledge interpretation 
-must be maintained throughout EDA
